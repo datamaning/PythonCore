@@ -1,3 +1,4 @@
+import urllib2
 def download(url,user_agent='wswp',num_retries=2):
     print 'Downloading:',url
     headers={'User-agent':user_agent}
@@ -11,5 +12,10 @@ def download(url,user_agent='wswp',num_retries=2):
             if hasattr(e,'code') and 500<=e.code<600:
                 return download(url,user_agent,num_retries-1)
             return html
-
+def crawl_sitemap(url):
+    sitemap=download(url)
+    links=re.findall('<loc>(.*?)</loc>',sitemap)
+    for link in links:
+        html=download(link)
+crawl_sitemap('http://example.webscraping.com/sitemap.xml')
 
