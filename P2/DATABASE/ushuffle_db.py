@@ -26,13 +26,12 @@ def connect(db):
     global DB_EXC
     dbDir='%s_%s' % (db,DBNAME)
     if db=='sqlite':
-        try:
             import sqlite3
-    elif db=='mysql':
+    elif db == 'mysql':
         try:
             import MySQLdb
             import _mysql_exceptions as DB_EXC
-        eccept ImportError:
+        except ImportError:
             return None
         
         try:
@@ -46,12 +45,14 @@ def connect(db):
                 cxn=MySQLdb.connect(db=DBNAME)
             except DB_EXC.OperationalError:
                 return NONE
+    return cxn
 def create(cur):
     try:
         cur.execute('''
-        login varchar(%d),
+        
+   CREATE TABLE USERS (    login varchar(%d),
         userid INTEGER,
-        projid INTEGER
+        projid INTEGER)
         ''' % NAMELEN)
     except DB_EXC.OperationalError:
         drop(cur)
@@ -66,7 +67,9 @@ def randName():
         yield pick.pop()
 def insert(cur,db):
     if db=='mysql':
-        cur.executemay("INSERT INTO USERS VALUES(%s,%s,%s)",[(who,uid,rand(1,5))for who,uid in randName()])
+        cur.executemany("INSERT INTO USERS VALUES(%s,%s,%s)",[(who,uid,rand(1,5))for who,uid in randName()])
+
+getRC=lambda cur:cur.rowcount if hasattr(cur,'rowcount') else -1
 
 def update(cur):
     fr=rand(1,5)
@@ -79,7 +82,7 @@ def delete(cur):
     cur.execute("DELETE FROM USERS WHERE projid=%d" %rm)
     return rm,getRC(cur)
 
-def dbDUMP(cur):
+def dbDump(cur):
     cur.execute("SELECT * FROM USERS")
     print '\n%s' % ''.join(map(cformat,FIELDS))
     for data in cur.fetchall():
