@@ -5,5 +5,5 @@ from django.db import models
 class BlogPost(models.Model):
     title=models.CharField(max_length=150)
     body=models.TextField()
-    timestamp=model.DateTimeField()
+    timestamp=models.DateTimeField()
 # Create your models here.
