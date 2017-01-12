@@ -19,5 +19,15 @@ def draw_square():
     angie.shape('arrow')
     angie.color('blue')
     angie.circle(100)
+    
+    tri=turtle.Turtle()
+    tri.shape('arrow')
+    tri.forward(100)
+    tri.left(120)
+    tri.forward(100)
+    tri.left(120)
+    tri.forward(100)
+
     window.exitonclick()
+
 draw_square()
