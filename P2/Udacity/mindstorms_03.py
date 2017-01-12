@@ -1,9 +1,9 @@
 import turtle
 
 def draw_square(brad):
-    for i in range(1,5):
+    for i in range(1,4):
         brad.forward(100)
-        brad.right(90)
+        brad.right(120)
 
 def draw_art():
     window=turtle.Screen()
