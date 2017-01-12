@@ -3,7 +3,7 @@ import turtle
 def draw_square(brad):
     for i in range(1,4):
         brad.forward(100)
-        brad.right(120)
+        brad.right(150)
 
 def draw_art():
     window=turtle.Screen()
