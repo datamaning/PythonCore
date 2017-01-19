@@ -8,7 +8,7 @@ account_key,status,join_date,cancel_date,days_to_cancel,is_udacity,is_canceled
 448,canceled,2015-01-27,2015-03-10,42,True,True
 448,canceled,2015-01-27,2015-01-27,0,True,True
 448,canceled,2015-01-27,2015-01-27,0,True,True
-700,canceled,2014-11-10,2014-11-16,6,False,True
+701,canceled,2014-11-10,2014-11-16,6,False,True
 429,canceled,2014-11-10,2015-03-10,120,False,True
 429,canceled,2015-03-10,2015-06-17,99,False,True
 60,canceled,2014-11-10,2015-01-14,65,False,True
