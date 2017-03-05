@@ -1,0 +1,10 @@
+INSTALLED_APPS=(
+        ...
+        'blog',
+        )
+DATABASES={
+        'default':{
+            'ENGINE':'django.db.backends.sqlite3',
+            'NAME':'/tmp/mysite.db',
+            }
+        }
