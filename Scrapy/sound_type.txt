@@ -1,20 +1,29 @@
-from html.parser import HTMLParser
-from urllib import request
-import json
-import os
-import sys
-import re
-from lxml import etree
-import random
-import traceback
-
-def parse_python_events():
-    album_addr=[]    #专辑列表
-    album_folder=""  #专辑文件夹
-    url_host="www.ximalaya.com/dq/book/"
-    html=urllib.urlopen(url_host).read()
-    
-if __name__=='__main__':
-    
-    parse_python_events()
+http://www.ximalaya.com/dq/book/
+http://www.ximalaya.com/dq/music/
+http://www.ximalaya.com/dq/entertainment/
+http://www.ximalaya.com/dq/comic/
+http://www.ximalaya.com/dq/kid/
+http://www.ximalaya.com/dq/3Dfeel2/
+http://www.ximalaya.com/dq/news/
+http://www.ximalaya.com/dq/talk2/
+http://www.ximalaya.com/dq/emotion/
+http://www.ximalaya.com/dq/culture/
+http://www.ximalaya.com/dq/renwen/
+http://www.ximalaya.com/dq/chair
+http://www.ximalaya.com/dq/english/
+http://www.ximalaya.com/dq/xiaoyuzhong/
+http://www.ximalaya.com/dq/radioplay/
+http://www.ximalaya.com/dq/opera/
+http://www.ximalaya.com/dq/radio/
+http://www.ximalaya.com/dq/finance/
+http://www.ximalaya.com/dq/it/
+http://www.ximalaya.com/dq/health/
+http://www.ximalaya.com/dq/lvyou/
+http://www.ximalaya.com/dq/qiche/
+http://www.ximalaya.com/dq/youxi/
+http://www.ximalaya.com/dq/openclass2/
+http://www.ximalaya.com/dq/ccp/
+http://www.ximalaya.com/dq/dianying/
+http://www.ximalaya.com/dq/shishangshenghuo/
+http://www.ximalaya.com/dq/poem/
 
