@@ -1,0 +1,20 @@
+from html.parser import HTMLParser
+from urllib import request
+import json
+import os
+import sys
+import re
+from lxml import etree
+import random
+import traceback
+
+def parse_python_events():
+    album_addr=[]    #专辑列表
+    album_folder=""  #专辑文件夹
+    url_host="www.ximalaya.com/dq/book/"
+    html=urllib.urlopen(url_host).read()
+    
+if __name__=='__main__':
+    
+    parse_python_events()
+
