@@ -6,7 +6,6 @@ import json
 import os
 import sys
 import re
-from threading import *
 #提取sound id，提取专辑名称用于创建该专辑文件夹
 class AlbumEventHtmlParser(HTMLParser):
     sound_ids = []
@@ -30,8 +29,6 @@ class AlbumEventHtmlParser(HTMLParser):
     def handle_data(self, data):
         if self.title_flag:
             rstr_list = re.findall(r"【(.*)】", data)
-            print(rstr_list,len(rstr_list))
-            #sleep(100)
             self.album_title = rstr_list[0]
             print(self.album_title)
             self.title_flag = False

@@ -1,0 +1,1000 @@
+kid,1,http://www.ximalaya.com/47780034/album/7040676,《兵猴传奇/动物小说大王沈石溪》——喜马拉雅独家文学作品
+kid,2,http://www.ximalaya.com/18489196/album/350298,小公主苏菲亚【巴巴妈妈讲故事】
+kid,3,http://www.ximalaya.com/18755189/album/3981740,十万个为什么——植物篇
+kid,4,http://www.ximalaya.com/56385970/album/5005627,小慧说字第二季
+kid,5,http://www.ximalaya.com/62297230/album/6663601,《Peppa Pig 粉红猪小妹（小猪佩奇）》中英文全集
+kid,6,http://www.ximalaya.com/8955242/album/320240,会飞的女孩儿(10岁）
+kid,7,http://www.ximalaya.com/64168164/album/5845601,糖粥粥姐姐睡前故事
+kid,8,http://www.ximalaya.com/1000505/album/803,儿童小故事精选
+kid,9,http://www.ximalaya.com/14043986/album/6570335,阿凡提的故事
+kid,10,http://www.ximalaya.com/1545344/album/15641,宝宝成长音乐-婴幼儿期
+kid,11,http://www.ximalaya.com/1412923/album/14994,世界上最愉快活泼的动物百科书-风靡韩国的百万畅销科学漫画书
+kid,12,http://www.ximalaya.com/1545344/album/267101,天天听儿歌
+kid,13,http://www.ximalaya.com/6036022/album/238679,小猪唏哩呼噜上下册
+kid,14,http://www.ximalaya.com/7618912/album/243619,胎教摇篮曲
+kid,15,http://www.ximalaya.com/57799910/album/5099547,白杨叔叔讲故事
+kid,16,http://www.ximalaya.com/7743073/album/246643,兔小贝儿歌-2
+kid,17,http://www.ximalaya.com/32811238/album/5391001,恐龙回来了
+kid,18,http://www.ximalaya.com/15836327/album/6704976,黑猫警长系列故事精选
+kid,19,http://www.ximalaya.com/10442973/album/269433,窗边的小豆豆【儿童】
+kid,20,http://www.ximalaya.com/7473014/album/289150,赛罗奥特曼 超决战！贝利亚银河帝国
+kid,21,http://www.ximalaya.com/40599028/album/3533683,唐诗三百首 精选
+kid,22,http://www.ximalaya.com/14043986/album/5354877,好妈妈讲堂
+kid,23,http://www.ximalaya.com/35867146/album/3275194,宝宝睡前小故事
+kid,24,http://www.ximalaya.com/3143366/album/2680520,小猪唏哩呼噜（上册）
+kid,25,http://www.ximalaya.com/36067644/album/4438280,汪汪队第二季
+kid,26,http://www.ximalaya.com/59875900/album/5320171,儿童趣味知识王国
+kid,27,http://www.ximalaya.com/43910618/album/5429450,熊出没之夏日连连看
+kid,28,http://www.ximalaya.com/1374220/album/15218,【国学】三字经、弟子规、唐诗、成语、寓言、神话【安娜妈咪FM】3岁+
+kid,29,http://www.ximalaya.com/9404954/album/263097,安徒生童话
+kid,30,http://www.ximalaya.com/55995626/album/5140810,坚果妈妈讲故事之巧虎
+kid,31,http://www.ximalaya.com/2987462/album/3054081,恐龙大陆【凯叔讲故事】
+kid,32,http://www.ximalaya.com/18524092/album/6376629,小布老虎丛书-装在口袋里的爸爸
+kid,33,http://www.ximalaya.com/7059973/album/2852383,黑猫警长系列故事
+kid,34,http://www.ximalaya.com/34048740/album/3009766,宝宝学唱：动物儿歌
+kid,35,http://www.ximalaya.com/7862534/album/2677775,安徒生童话
+kid,36,http://www.ximalaya.com/9248693/album/254709,小鹿萌妈讲100个公主故事（公众号：xiaolumengma)
+kid,37,http://www.ximalaya.com/13081763/album/301722,女巫
+kid,38,http://www.ximalaya.com/45877662/album/4278721,狗戴猫铃·老墨家族
+kid,39,http://www.ximalaya.com/19946900/album/3186445,变形警车珀利
+kid,40,http://www.ximalaya.com/65567628/album/5946654,粤语儿童故事宝盒
+kid,41,http://www.ximalaya.com/1000220/album/265,睡美人
+kid,42,http://www.ximalaya.com/34071566/album/3822709,Ｑ妈讲故事｜海底小纵队
+kid,43,http://www.ximalaya.com/1000523/album/308,格林童话
+kid,44,http://www.ximalaya.com/19381160/album/313198,14只老鼠
+kid,45,http://www.ximalaya.com/14990362/album/365579,心贝魔法故事口袋
+kid,46,http://www.ximalaya.com/29784782/album/2816590,【亲宝儿歌】 《经典》
+kid,47,http://www.ximalaya.com/57425677/album/5130488,哪吒闹海
+kid,48,http://www.ximalaya.com/47123267/album/4287235,月亮兔故事屋——植物军团大战僵尸国
+kid,49,http://www.ximalaya.com/47780034/album/4190809,再被狐狸骗一次/动物小说大王沈石溪
+kid,50,http://www.ximalaya.com/39658476/album/3412533,绘本故事
+kid,51,http://www.ximalaya.com/40555027/album/3529796,【王老师每日临床医话】
+kid,52,http://www.ximalaya.com/1207551/album/5765,Wee Sing For Baby CD
+kid,53,http://www.ximalaya.com/12520490/album/284597,幼儿故事
+kid,54,http://www.ximalaya.com/48294779/album/6632417,幼儿歌曲（低幼）
+kid,55,http://www.ximalaya.com/2452186/album/2998058,幼儿国学启蒙《弟子规》教念
+kid,56,http://www.ximalaya.com/1319436/album/4922895,【钱儿爸】小怪兽阿蒙系列
+kid,57,http://www.ximalaya.com/17983085/album/308932,一年级的小豆豆 1、2
+kid,58,http://www.ximalaya.com/34923152/album/3300681,蒙氏幼儿教育（蒙台梭利）
+kid,59,http://www.ximalaya.com/18489196/album/2718454,赛尔号 战神联盟【巴巴妈妈讲故事】
+kid,60,http://www.ximalaya.com/32811238/album/4759680,迪迦奥特曼(更新中)
+kid,61,http://www.ximalaya.com/2592905/album/202812,呼呼收音机儿童睡前故事
+kid,62,http://www.ximalaya.com/2768083/album/331783,我和小姐姐克拉拉
+kid,63,http://www.ximalaya.com/19077571/album/5971034,青蛙弗洛格
+kid,64,http://www.ximalaya.com/1319436/album/317635,【钱儿妈】加古里子乌鸦面包店系列
+kid,65,http://www.ximalaya.com/46034590/album/3996158,部编新教材《一年级语文下》
+kid,66,http://www.ximalaya.com/7050443/album/301678,安徒生童话故事全集
+kid,67,http://www.ximalaya.com/24296859/album/3987572,黑猫警长之翡翠之星
+kid,68,http://www.ximalaya.com/13081763/album/302262,荒野求生 巨蟒丛林的黄金密码
+kid,69,http://www.ximalaya.com/19279887/album/2907021,幼儿园歌曲
+kid,70,http://www.ximalaya.com/8552931/album/3824978,丸子妈妈讲故事《小兔汤姆》系列
+kid,71,http://www.ximalaya.com/13765797/album/6808322,玛蒂尔达-每日更新1集[罗尔德·达尔童话作品典藏 世界奇幻儿童文学大师]
+kid,72,http://www.ximalaya.com/7547695/album/243053,《神奇校车》图画版
+kid,73,http://www.ximalaya.com/14699658/album/295702,kids abc儿歌
+kid,74,http://www.ximalaya.com/1071515/album/4450,语感启蒙（2004年清华版）
+kid,75,http://www.ximalaya.com/34071566/album/4665909,海底总动员2：多莉去哪儿
+kid,76,http://www.ximalaya.com/1319436/album/2670123,【钱儿爸】中国经典老故事绘本系列
+kid,77,http://www.ximalaya.com/3520765/album/6270383,上下五千年
+kid,78,http://www.ximalaya.com/26626833/album/399914,西瓜哥哥睡前故事
+kid,79,http://www.ximalaya.com/4741120/album/255436,派老头和捣乱猫（全8册）
+kid,80,http://www.ximalaya.com/8552931/album/6895506,小耳朵故事大赛
+kid,81,http://www.ximalaya.com/42839693/album/3752419,阿凡提
+kid,82,http://www.ximalaya.com/13081763/album/4612583,中国雨林的惊天一跃
+kid,83,http://www.ximalaya.com/22056591/album/348415,安妮花－磨出我的英语耳朵2－原版音频
+kid,84,http://www.ximalaya.com/69573877/album/6319307,365夜故事
+kid,85,http://www.ximalaya.com/62322469/album/6529160,植物大战僵尸-武器秘密故事
+kid,86,http://www.ximalaya.com/22772153/album/2939981,不一样的卡梅拉
+kid,87,http://www.ximalaya.com/3804776/album/5695536,秋木叔叔《花木兰》
+kid,88,http://www.ximalaya.com/30575273/album/2844625,365夜动物故事
+kid,89,http://www.ximalaya.com/23758260/album/358090,人教版小学二年级语文下册
+kid,90,http://www.ximalaya.com/56288651/album/5807748,颠覆性儿童益智心理学故事集
+kid,91,http://www.ximalaya.com/9177951/album/251845,蓝色小考拉penelope
+kid,92,http://www.ximalaya.com/33493328/album/6083273,海洋奇缘 --迪士尼电影故事（完本）
+kid,93,http://www.ximalaya.com/45199807/album/3913357,明明讲故事
+kid,94,http://www.ximalaya.com/67114456/album/6089565,晓蕾姐姐讲历史故事
+kid,95,http://www.ximalaya.com/8955242/album/392100,我是一只狐狸狗(10-12岁）
+kid,96,http://www.ximalaya.com/7408712/album/307005,奥特曼
+kid,97,http://www.ximalaya.com/9177951/album/251863,语感启蒙
+kid,98,http://www.ximalaya.com/1149701/album/4706282,丁丁历险记
+kid,99,http://www.ximalaya.com/1000275/album/146,十万个为什么
+kid,100,http://www.ximalaya.com/16237678/album/324024,中国优秀童话
+kid,101,http://www.ximalaya.com/12740348/album/314737,小喇叭60年经典睡前故事（月亮卷）
+kid,102,http://www.ximalaya.com/34914805/album/4921076,樱桃小丸子 - 睡前故事 动漫原声
+kid,103,http://www.ximalaya.com/6387901/album/242270,爱和自由—孙瑞雪幼儿教育演讲录（全新增订第四版）
+kid,104,http://www.ximalaya.com/23756438/album/362130,开心超人
+kid,105,http://www.ximalaya.com/32101150/album/3848594,植物大战僵尸系列故事
+kid,106,http://www.ximalaya.com/38821404/album/3357427,粉红猪小妹第1季52集全(英文版) Peppa Pig
+kid,107,http://www.ximalaya.com/1209449/album/225404,少儿摇篮曲
+kid,108,http://www.ximalaya.com/13031194/album/274246,经典绘本系列
+kid,109,http://www.ximalaya.com/15962089/album/4541186,消防员山姆
+kid,110,http://www.ximalaya.com/1159790/album/349054,红袋鼠故事会
+kid,111,http://www.ximalaya.com/56338304/album/5152998,孟卓老师讲故事
+kid,112,http://www.ximalaya.com/7978119/album/245592,伊索寓言_
+kid,113,http://www.ximalaya.com/20577398/album/6566123,仙子姐姐讲故事
+kid,114,http://www.ximalaya.com/36327519/album/3161875,【小牛顿】科学开讲咯(6-12岁)
+kid,115,http://www.ximalaya.com/21447298/album/3197074,《每天读一点科学故事》
+kid,116,http://www.ximalaya.com/35254439/album/6393251,青蛙和蟾蜍
+kid,117,http://www.ximalaya.com/8955242/album/250749,绿山墙的安妮(11岁）
+kid,118,http://www.ximalaya.com/13081763/album/429947,波普先生的企鹅
+kid,119,http://www.ximalaya.com/15658036/album/339172,绘本故事
+kid,120,http://www.ximalaya.com/1412923/album/14985,聪明的问号-开启宝宝智慧大门的钥匙
+kid,121,http://www.ximalaya.com/30575273/album/2806988,海豚王子历险记
+kid,122,http://www.ximalaya.com/66247108/album/6008384,糖果姐姐讲故事
+kid,123,http://www.ximalaya.com/10491711/album/262249,Peppa Pig粉红猪小妹  第一季 英语
+kid,124,http://www.ximalaya.com/7410727/album/265543,【人物传记】《世界名人传》
+kid,125,http://www.ximalaya.com/49330483/album/4704851,一年级的小朵朵（已完结）
+kid,126,http://www.ximalaya.com/6036022/album/264986,小布头奇遇记(新旧合集）
+kid,127,http://www.ximalaya.com/69477470/album/6641165,儿歌童谣 - 精选
+kid,128,http://www.ximalaya.com/1000499/album/14921,宝宝越唱越快乐
+kid,129,http://www.ximalaya.com/56894294/album/4995039,猪迪克儿歌
+kid,130,http://www.ximalaya.com/1247484/album/225998,Caillou卡由
+kid,131,http://www.ximalaya.com/33099116/album/5765457,陈亮叔叔讲故事
+kid,132,http://www.ximalaya.com/7410727/album/242487,【经典名著】《小飞侠彼得潘》
+kid,133,http://www.ximalaya.com/25285042/album/6714722,365儿童百科
+kid,134,http://www.ximalaya.com/34587142/album/5247669,恐龙来了
+kid,135,http://www.ximalaya.com/19946900/album/5214197,大耳朵图图第三部
+kid,136,http://www.ximalaya.com/5695684/album/3748649,Does A Kangaroo Have A Mother,Too？
+kid,137,http://www.ximalaya.com/13609695/album/2867521,中华上下五千年
+kid,138,http://www.ximalaya.com/4235742/album/3931429,哆啦a梦 第二季（下）更新中
+kid,139,http://www.ximalaya.com/7336039/album/6791673,甜瓜妈妈讲述故事之郭述军专辑
+kid,140,http://www.ximalaya.com/19381160/album/324088,蹦蹦和跳跳的故事
+kid,141,http://www.ximalaya.com/17523845/album/3483391,小鲁-中国历史
+kid,142,http://www.ximalaya.com/8623173/album/277766,三字经
+kid,143,http://www.ximalaya.com/14043986/album/2982802,《牛津阅读树》绘本故事+自然拼读
+kid,144,http://www.ximalaya.com/28584122/album/3506593,麦克米伦儿童绘本精选（双语）
+kid,145,http://www.ximalaya.com/46427057/album/6276297,【绘本故事】大脚丫跳芭蕾
+kid,146,http://www.ximalaya.com/14503963/album/2658769,贝贝熊1-2-3辑 【公众号:ZYGD99】
+kid,147,http://www.ximalaya.com/32311824/album/2974478,若虹妈妈讲三国
+kid,148,http://www.ximalaya.com/10267581/album/292264,（完整版）查理九世17 外星怪客
+kid,149,http://www.ximalaya.com/51828621/album/4443103,竹兜原创儿童音乐
+kid,150,http://www.ximalaya.com/57436749/album/5570291,《羽毛女孩》（完本）【RENEE_L播讲】
+kid,151,http://www.ximalaya.com/63971563/album/6170186,钢铁侠神奇东游记
+kid,152,http://www.ximalaya.com/20581213/album/375884,狐狸鸟
+kid,153,http://www.ximalaya.com/36253507/album/5552174,最美的法布尔昆虫记【甜甜阿姨】
+kid,154,http://www.ximalaya.com/38205274/album/5257514,父母选修课｜蒙特梭利全方位养育法
+kid,155,http://www.ximalaya.com/47296724/album/5582063,中国动画典藏-宝莲灯2-孝沉香劈山救母
+kid,156,http://www.ximalaya.com/20614122/album/326392,与宝宝分享你的童年歌声
+kid,157,http://www.ximalaya.com/5576834/album/3664246,这就是二十四节气
+kid,158,http://www.ximalaya.com/18826242/album/305025,心理童话
+kid,159,http://www.ximalaya.com/1894439/album/365236,育灵童国学经典
+kid,160,http://www.ximalaya.com/34071566/album/3821944,Q妈讲故事 | 小熊维尼
+kid,161,http://www.ximalaya.com/38209102/album/3987400,迪斯尼童话之花木兰
+kid,162,http://www.ximalaya.com/8955242/album/262203,快乐语文(7+）杂志优选作文分享
+kid,163,http://www.ximalaya.com/1000535/album/245,伊索寓言
+kid,164,http://www.ximalaya.com/17523845/album/414213,奇先生妙小姐
+kid,165,http://www.ximalaya.com/1792912/album/4296299,圈圈姐姐讲故事
+kid,166,http://www.ximalaya.com/10553948/album/269703,晚安妈妈睡前谜语
+kid,167,http://www.ximalaya.com/7507194/album/283390,【7岁+】2 吴姐姐讲历史故事（201—300集）
+kid,168,http://www.ximalaya.com/1412923/album/14992,森林报-世界十大最经典的科普名著之一
+kid,169,http://www.ximalaya.com/49249699/album/5150035,腾腾妈妈讲故事
+kid,170,http://www.ximalaya.com/5560442/album/6492756,《奇妙的科学》3~9岁 科学启蒙绘本
+kid,171,http://www.ximalaya.com/30575273/album/2806924,糖果王国历险记（欢迎打赏）
+kid,172,http://www.ximalaya.com/29496174/album/3270414,幼儿画报
+kid,173,http://www.ximalaya.com/10865596/album/3922212,超级飞侠英文版第1季26集
+kid,174,http://www.ximalaya.com/32294969/album/4620043,巧虎学古诗（28集）
+kid,175,http://www.ximalaya.com/35977879/album/5228093,新东方绘本馆百科故事（23年品牌保证 百科启蒙神器）
+kid,176,http://www.ximalaya.com/40707862/album/4033407,二下夏天的故事
+kid,177,http://www.ximalaya.com/74084108/album/6762026,菁菁姐姐讲故事
+kid,178,http://www.ximalaya.com/18755189/album/456019,儿童故事
+kid,179,http://www.ximalaya.com/13765797/album/6160097,海底小纵队[童话中的海洋百科-三季99集全]
+kid,180,http://www.ximalaya.com/12797268/album/293074,【多纳】亲子英文(3~12岁及家长)
+kid,181,http://www.ximalaya.com/16617372/album/362437,怪叔叔讲故事：中外民间故事少儿版
+kid,182,http://www.ximalaya.com/40821682/album/4300110,四季童话(中央人民广播频道李佳阿姨播讲)
+kid,183,http://www.ximalaya.com/26198337/album/390067,听故事，学道理
+kid,184,http://www.ximalaya.com/20581213/album/381454,《屋顶上的小孩》
+kid,185,http://www.ximalaya.com/14425778/album/279025,海底两万里--岳峰播讲
+kid,186,http://www.ximalaya.com/7743073/album/4265563,兔小贝睡前故事
+kid,187,http://www.ximalaya.com/33998470/album/3938512,365夜故事儿童故事
+kid,188,http://www.ximalaya.com/25696036/album/3376796,音乐神童在我家<2>益智篇
+kid,189,http://www.ximalaya.com/2967671/album/4697823,植物大战僵尸2－科学漫画系列
+kid,190,http://www.ximalaya.com/14043986/album/2655285,伊索寓言
+kid,191,http://www.ximalaya.com/2452186/album/321090,《鞠萍姐姐讲故事全集》精剪制作版(下)
+kid,192,http://www.ximalaya.com/19946900/album/5326058,米奇妙妙屋
+kid,193,http://www.ximalaya.com/2214013/album/278206,巧虎宝宝版
+kid,194,http://www.ximalaya.com/12797268/album/291274,【多纳】睡前故事(0~8岁)
+kid,195,http://www.ximalaya.com/23592196/album/5415013,海底小纵队英文版第一季
+kid,196,http://www.ximalaya.com/12520490/album/295892,少儿故事
+kid,197,http://www.ximalaya.com/23184700/album/3584164,365夜英语故事
+kid,198,http://www.ximalaya.com/27686527/album/3778899,年糕妈妈睡眠引导专题
+kid,199,http://www.ximalaya.com/19077571/album/6745377,天天游戏力
+kid,200,http://www.ximalaya.com/19946900/album/6525588,猪猪侠五灵卫
+kid,201,http://www.ximalaya.com/24075238/album/391363,五年级英语（下）HQ 上教社牛津全国版
+kid,202,http://www.ximalaya.com/17648531/album/305872,《小兔彼得和他的朋友们》__世界经典儿童文学（持续更新）
+kid,203,http://www.ximalaya.com/40406826/album/3595946,【嘟妈Jane】绘本故事
+kid,204,http://www.ximalaya.com/18801781/album/3264970,你不可不知的十万个恐龙之谜
+kid,205,http://www.ximalaya.com/40406826/album/3595946,【嘟妈Jane】绘本故事
+kid,206,http://www.ximalaya.com/18801781/album/3264970,你不可不知的十万个恐龙之谜
+kid,207,http://www.ximalaya.com/53167213/album/4993284,花园宝宝中文版全集
+kid,208,http://www.ximalaya.com/46536386/album/4267264,睡眠音乐大全
+kid,209,http://www.ximalaya.com/12797268/album/2896646,【多纳】和妈妈一起唱儿谣(2~8岁)
+kid,210,http://www.ximalaya.com/4103550/album/242117,花园宝宝睡前故事
+kid,211,http://www.ximalaya.com/4227498/album/2752429,多瑞奶奶讲故事《一千零一夜》故事专辑
+kid,212,http://www.ximalaya.com/20581213/album/2968123,魔笔熊
+kid,213,http://www.ximalaya.com/61130364/album/5674151,丁丁历险记-七个水晶球-完结
+kid,214,http://www.ximalaya.com/22506505/album/3735904,托马斯小火车系列
+kid,215,http://www.ximalaya.com/34918396/album/6253201,【米粒妈团购】英国进口Bizzy Bear小熊很忙，美亚五星满分好评绘本
+kid,216,http://www.ximalaya.com/11801046/album/359729,恐龙故事系列
+kid,217,http://www.ximalaya.com/30836102/album/2930926,中国经典故事
+kid,218,http://www.ximalaya.com/74819896/album/6880331,儿童故事
+kid,219,http://www.ximalaya.com/9441498/album/2849189,宝贝睡觉听故事
+kid,220,http://www.ximalaya.com/14769908/album/3131193,睡前故事：309暗室
+kid,221,http://www.ximalaya.com/20581213/album/394658,蛋壳里出来的奶奶 
+kid,222,http://www.ximalaya.com/11676243/album/273904,幼儿歌曲
+kid,223,http://www.ximalaya.com/25652096/album/379088,【边做边爱】【新巅峰家教智慧】【培养优秀父母的规律】-中国家庭教育经典系列
+kid,224,http://www.ximalaya.com/16437417/album/5339199,黑猫警长合集
+kid,225,http://www.ximalaya.com/5727768/album/4423006,魔女故事屋讲迪士尼电影故事
+kid,226,http://www.ximalaya.com/18716367/album/3520632,小马哥哥对你说
+kid,227,http://www.ximalaya.com/14043986/album/2907166,I Can Read 汪培珽书单第一阶段
+kid,228,http://www.ximalaya.com/20581213/album/340927,蓝色的海豚岛
+kid,229,http://www.ximalaya.com/24491950/album/3415972,奥尔夫音乐
+kid,230,http://www.ximalaya.com/54142100/album/6776661,彬的故事匣子
+kid,231,http://www.ximalaya.com/9543605/album/350214,人教版新课标四年级语文课文朗读
+kid,232,http://www.ximalaya.com/9177951/album/252008,Little bear(天才宝贝熊)
+kid,233,http://www.ximalaya.com/22759678/album/6326219,外婆讲故事（二）
+kid,234,http://www.ximalaya.com/18826242/album/3099262,世界历史
+kid,235,http://www.ximalaya.com/1870065/album/4975103,成长故事《蜜汁儿的冒险》
+kid,236,http://www.ximalaya.com/35080716/album/4466108,廖彩杏书单100本英文绘本音频（JY版）
+kid,237,http://www.ximalaya.com/10808564/album/278008,Matilda
+kid,238,http://www.ximalaya.com/32327755/album/4505447,粤语儿童故事--小猪佩奇动画故事
+kid,239,http://www.ximalaya.com/19381160/album/313288,聪明豆绘本系列1-5辑
+kid,240,http://www.ximalaya.com/47672568/album/4860641,小猪佩奇Peppa pig 第3季 英文版
+kid,241,http://www.ximalaya.com/9404954/album/263835,《三字经》诵读及代表故事 （全书完）
+kid,242,http://www.ximalaya.com/16426590/album/5899323,植物大战僵尸
+kid,243,http://www.ximalaya.com/19358459/album/340422,JY音频卡尔绘本Brown Bear What Do You See公众号：家庭亲子教育资源集锦）
+kid,244,http://www.ximalaya.com/4298345/album/2821576,托马斯和朋友幼儿情绪管理互动读本
+kid,245,http://www.ximalaya.com/8955242/album/251801,火鞋与风鞋(7-8岁）
+kid,246,http://www.ximalaya.com/23272147/album/392579,我的第一本动物科普故事
+kid,247,http://www.ximalaya.com/53096117/album/5305970,【小恐龙幼儿园】情商培养图画书
+kid,248,http://www.ximalaya.com/53289677/album/5490669,躺着听诗词
+kid,249,http://www.ximalaya.com/32504629/album/4608551,鼹鼠的故事
+kid,250,http://www.ximalaya.com/5702062/album/2800966,大红狗克里弗
+kid,251,http://www.ximalaya.com/69679598/album/6331376,豆子爱听的双语故事
+kid,252,http://www.ximalaya.com/25962467/album/402289,少儿钢琴启蒙听力练习（Kid Piano Midi Music Audition）
+kid,253,http://www.ximalaya.com/16237678/album/318913,儿童领导力绘本
+kid,254,http://www.ximalaya.com/28832964/album/2697061,法国妈妈育儿经（全中文）
+kid,255,http://www.ximalaya.com/2987462/album/3404136,凯叔讲【圣诞故事】
+kid,256,http://www.ximalaya.com/38063157/album/4317338,澳洲小留学生日记（美啦啦的留学故事）
+kid,257,http://www.ximalaya.com/19077571/album/3504937,法布尔昆虫记
+kid,258,http://www.ximalaya.com/29553933/album/2735202,神话故事/娓娓姐姐讲故事/儿童故事/儿歌
+kid,259,http://www.ximalaya.com/1072622/album/347740,Super Simple Song
+kid,260,http://www.ximalaya.com/4227498/album/2754788,格林童话故事专辑-多瑞奶奶讲故事
+kid,261,http://www.ximalaya.com/1072622/album/238347,Caillou卡由 57集全
+kid,262,http://www.ximalaya.com/10491711/album/3056115,CHARLIE AND LOLA S1-S3
+kid,263,http://www.ximalaya.com/34928939/album/4231263,1b 情景儿歌 清华幼儿英语1b
+kid,264,http://www.ximalaya.com/9543605/album/350061,人教版三年级语文课本原文朗读
+kid,265,http://www.ximalaya.com/5772235/album/457702,棚车少年8-灯塔之谜
+kid,266,http://www.ximalaya.com/1012258/album/5159711,余越带你学论语听故事
+kid,267,http://www.ximalaya.com/58949705/album/6085659,经典儿童故事全集
+kid,268,http://www.ximalaya.com/68493248/album/6250907,大自然的声音—宝宝认知陶冶情操
+kid,269,http://www.ximalaya.com/5702062/album/4063242,聪明的小海狸
+kid,270,http://www.ximalaya.com/33839965/album/6835674,千字文童声跟读版
+kid,271,http://www.ximalaya.com/20668078/album/3964766,主播妈妈讲故事
+kid,272,http://www.ximalaya.com/23994949/album/360916,恐龙大百科
+kid,273,http://www.ximalaya.com/9488306/album/253304,幼学琼林 - 国学宝 - 小孔子
+kid,274,http://www.ximalaya.com/8955242/album/3229852,《世说新语》张小椿老师主讲(8岁以上)
+kid,275,http://www.ximalaya.com/19779204/album/3750925,苏教版四年级英语下册
+kid,276,http://www.ximalaya.com/10975353/album/3627517,《七只小老鼠》山下明生作品
+kid,277,http://www.ximalaya.com/20556829/album/2739776,弟子规故事
+kid,278,http://www.ximalaya.com/27282380/album/3797546,Sight Word Kids
+kid,279,http://www.ximalaya.com/34918396/album/3375788,【最全】米粒妈·牛津树4-6阶全部音频
+kid,280,http://www.ximalaya.com/1211210/album/15687,粉猪
+kid,281,http://www.ximalaya.com/10963693/album/307320,数学乘法口诀，微信公众号“伢米悦读”
+kid,282,http://www.ximalaya.com/5183162/album/255825,小青蛙呱呱讲（0-6岁）
+kid,283,http://www.ximalaya.com/1319436/album/3060327,《双子爸爸的超级西游记》番外花絮
+kid,284,http://www.ximalaya.com/59923552/album/5372840,曾仕强讲亲子关系
+kid,285,http://www.ximalaya.com/1312494/album/3974,宋飞语言艺术
+kid,286,http://www.ximalaya.com/61156326/album/5655440,儿童时间管理原创亲子故事·豆豆妈妈®卷卷飞
+kid,287,http://www.ximalaya.com/1343095/album/216783,黑猫系列Early Reads
+kid,288,http://www.ximalaya.com/36255511/album/5737421,羊妈&羊宝讲故事
+kid,289,http://www.ximalaya.com/17920205/album/2697971,一年级的小豆豆【完结】
+kid,290,http://www.ximalaya.com/15247962/album/3341686,罗尔德作品 查理和大玻璃升降机
+kid,291,http://www.ximalaya.com/70592266/album/6646368,公主故事
+kid,292,http://www.ximalaya.com/18672077/album/327085,汤姆索亚历险记（19集）
+kid,293,http://www.ximalaya.com/42241769/album/5517588,Super' Simple Songs【慧语堂】
+kid,294,http://www.ximalaya.com/22328141/album/6379752,中国经典神话故事-芊妍讲儿童故事
+kid,295,http://www.ximalaya.com/31977153/album/3130905,赛尔号： 战神联盟
+kid,296,http://www.ximalaya.com/34513399/album/3063171,爱探险的朵拉系列故事第五辑•奇幻之旅
+kid,297,http://www.ximalaya.com/4876177/album/227770,哈利儿歌：囡囡小剧场
+kid,298,http://www.ximalaya.com/60994552/album/6883437,跟着唐诗去旅行
+kid,299,http://www.ximalaya.com/59227629/album/5712392,燕子讲故事
+kid,300,http://www.ximalaya.com/26686572/album/4062748,幽默三国、幽默水浒系列
+kid,301,http://www.ximalaya.com/30904129/album/3377533,幼教手记
+kid,302,http://www.ximalaya.com/9404954/album/264210,三毛从军记（全三集完）
+kid,303,http://www.ximalaya.com/36608066/album/3254746,科学故事（儿童听世界）
+kid,304,http://www.ximalaya.com/13691631/album/3647092,Rosie's Walk
+kid,305,http://www.ximalaya.com/36253507/album/5551715,不一样的卡梅拉【甜甜阿姨】
+kid,306,http://www.ximalaya.com/8955242/album/332377,小国王 [德]阿尔塞尔•哈克(9岁）
+kid,307,http://www.ximalaya.com/40855309/album/3553564,儿童绘本
+kid,308,http://www.ximalaya.com/5695684/album/3749251,The Wheels On The Bus
+kid,309,http://www.ximalaya.com/1870065/album/3089542,小精灵卡哚（奇幻冒险）
+kid,310,http://www.ximalaya.com/7410727/album/251982,《哈弗家训》选读
+kid,311,http://www.ximalaya.com/34247918/album/6102028,郝柳为孩子读书
+kid,312,http://www.ximalaya.com/10227511/album/4156249,韩国校园励志小说第三辑之《赞美改变你》
+kid,313,http://www.ximalaya.com/32526332/album/5664990,海豚绘本花园系列【LoveStory 宝宝爱故事】
+kid,314,http://www.ximalaya.com/34918396/album/3508735,【最全】米粒妈·廖彩杏书单Child's Play6册指偶书
+kid,315,http://www.ximalaya.com/62219665/album/6515723,认知儿歌（字母、数字、水果、蔬菜、颜色、交通工具等）
+kid,316,http://www.ximalaya.com/12855173/album/363715,小歌星精选歌曲大联唱
+kid,317,http://www.ximalaya.com/5183162/album/231461,春华童书（0-3岁）
+kid,318,http://www.ximalaya.com/32997490/album/4442447,系列故事
+kid,319,http://www.ximalaya.com/62135244/album/5632904,儿童读物《少儿水浒传》
+kid,320,http://www.ximalaya.com/37076288/album/3209548,儿童故事
+kid,321,http://www.ximalaya.com/18001273/album/371301,查理和巧克力工厂——罗尔德.达尔
+kid,322,http://www.ximalaya.com/34918396/album/3934688,【最全】迪士尼最佳英文儿歌合集，宝贝磨耳朵必备！
+kid,323,http://www.ximalaya.com/8955242/album/251036,晚安宝贝 我们读书吧(12岁+）
+kid,324,http://www.ximalaya.com/75224245/album/6944709,不一样的卡梅拉
+kid,325,http://www.ximalaya.com/6886360/album/3842176,卡由音频中英文
+kid,326,http://www.ximalaya.com/8955242/album/352870,《小太阳》(11岁）
+kid,327,http://www.ximalaya.com/19163726/album/3327439,我爸爸的小飞龙全三册
+kid,328,http://www.ximalaya.com/17648531/album/356047,奇先生妙小姐（第一季）
+kid,329,http://www.ximalaya.com/41201925/album/6343733,宝宝睡前故事
+kid,330,http://www.ximalaya.com/9924409/album/316915,查理和劳拉Charli and Lola 第一季26集
+kid,331,http://www.ximalaya.com/12186716/album/2785306,青蛙弗洛格的成长故事
+kid,332,http://www.ximalaya.com/40704417/album/3541972,汤姆系列绘本
+kid,333,http://www.ximalaya.com/11801046/album/4617100,博雅小学堂【故事蜡烛】
+kid,334,http://www.ximalaya.com/6036022/album/2752870,越听越聪明
+kid,335,http://www.ximalaya.com/1000273/album/641,埃米尔捕盗记
+kid,336,http://www.ximalaya.com/54642666/album/6240386,鱼果妈咪讲故事
+kid,337,http://www.ximalaya.com/14751401/album/5753117,蜡笔小新
+kid,338,http://www.ximalaya.com/28158171/album/2805475,爱探险的朵拉
+kid,339,http://www.ximalaya.com/6501385/album/4175473,奶与蜜英文绘本故事--创始人Abby老师讲给你听
+kid,340,http://www.ximalaya.com/58658857/album/5185785,文怡讲故事
+kid,341,http://www.ximalaya.com/8437628/album/271258,卡尔·威特的教育
+kid,342,http://www.ximalaya.com/39232343/album/6688669,彩虹鱼 - 常青藤爸爸绘本故事
+kid,343,http://www.ximalaya.com/41013592/album/3646886,嘟嘟妈妈的声音日记
+kid,344,http://www.ximalaya.com/6974546/album/369719,神桐妈妈讲故事
+kid,345,http://www.ximalaya.com/33839965/album/3661537,孙幼军-小猪稀里呼噜第二部（完结）
+kid,346,http://www.ximalaya.com/38598621/album/4453661,世界童话《集选》
+kid,347,http://www.ximalaya.com/52292378/album/4487952,母乳喂养指导
+kid,348,http://www.ximalaya.com/14043986/album/411487,椋鸠十动物故事
+kid,349,http://www.ximalaya.com/1209449/album/280609,金鹿幼儿园 小袋鼠整合课程音乐
+kid,350,http://www.ximalaya.com/62134427/album/5926584,青蛙和蟾蜍
+kid,351,http://www.ximalaya.com/52814670/album/4545218,亲子蒙氏早教生活班音乐
+kid,352,http://www.ximalaya.com/5082029/album/304071,派老头和捣乱猫的开心故事
+kid,353,http://www.ximalaya.com/8406824/album/4864520,虎哥讲故事
+kid,354,http://www.ximalaya.com/20819599/album/4077607,廖彩杏【用有声书轻松听出英文力】第三周【代传中···】
+kid,355,http://www.ximalaya.com/75373933/album/6955626,小故事
+kid,356,http://www.ximalaya.com/52814670/album/4564307,胎教音乐莫扎特系列等…
+kid,357,http://www.ximalaya.com/19381160/album/329524,森林报 冬
+kid,358,http://www.ximalaya.com/8955242/album/3234450,爱的教育（10岁）
+kid,359,http://www.ximalaya.com/45182122/album/4690956,中国古代神话故事
+kid,360,http://www.ximalaya.com/14074023/album/366460,双语宝宝工作坊——曹灿少儿版三国演义
+kid,361,http://www.ximalaya.com/47672568/album/4867680,小小牛顿幼儿馆
+kid,362,http://www.ximalaya.com/12512006/album/3410904,波哥讲 “爱的教育”
+kid,363,http://www.ximalaya.com/35714685/album/5246570,大猫英语分级阅读 一级1
+kid,364,http://www.ximalaya.com/21291299/album/5414681,装在口袋里的爸爸（神仙爸爸）
+kid,365,http://www.ximalaya.com/73050015/album/6651416,国学浸润丨来自成语大会的每日成语故事
+kid,366,http://www.ximalaya.com/62343729/album/6702158,写给春天的诗词
+kid,367,http://www.ximalaya.com/41208380/album/4325546,巧虎让孩子快速学会26个英文字母
+kid,368,http://www.ximalaya.com/45166566/album/4874727,听海洋生物讲故事
+kid,369,http://www.ximalaya.com/1870065/album/2925878,绘本故事--海豚传媒
+kid,370,http://www.ximalaya.com/15045538/album/2850592,植物大战坏行为
+kid,371,http://www.ximalaya.com/1000526/album/768,中外著名童话选
+kid,372,http://www.ximalaya.com/10519133/album/261097,听苑爸爸讲英语故事
+kid,373,http://www.ximalaya.com/27280596/album/423439,魔镜世界历史
+kid,374,http://www.ximalaya.com/15658036/album/3159111,玛蒂娜的故事
+kid,375,http://www.ximalaya.com/48100849/album/4648142,《托马斯和他的朋友们》
+kid,376,http://www.ximalaya.com/49159121/album/4337039,托马斯和他的朋友们原著绘本故事
+kid,377,http://www.ximalaya.com/12855173/album/285343,Learning
+kid,378,http://www.ximalaya.com/43845828/album/3786395,长篇童话故事
+kid,379,http://www.ximalaya.com/9516007/album/6176531,睡前绘本
+kid,380,http://www.ximalaya.com/71988000/album/6800663,自然科学启蒙
+kid,381,http://www.ximalaya.com/54810646/album/5763314,盖世童书独家书籍
+kid,382,http://www.ximalaya.com/28552840/album/3259471,绘本故事
+kid,383,http://www.ximalaya.com/34587142/album/6113062,《我的日记》系列
+kid,384,http://www.ximalaya.com/6325245/album/2828876,巧虎10个月牙牙学语
+kid,385,http://www.ximalaya.com/17523845/album/3371322,第一本亲子英文
+kid,386,http://www.ximalaya.com/36258455/album/3683515,世界很奇妙+你未必知道！
+kid,387,http://www.ximalaya.com/20614122/album/2684265,老动画：九色鹿
+kid,388,http://www.ximalaya.com/1072622/album/4806687,oxford phonics world 2 CD 2
+kid,389,http://www.ximalaya.com/43381738/album/5278179,金波童话
+kid,390,http://www.ximalaya.com/17355235/album/419038,暴风角大冒险（阿U的文学故事首播）
+kid,391,http://www.ximalaya.com/30098032/album/3873622,张秋生小巴掌经典童话之《打喷嚏的兔子》
+kid,392,http://www.ximalaya.com/1127391/album/2687882,佐贺的超级阿嬷
+kid,393,http://www.ximalaya.com/33628891/album/3880174,皮皮鲁遇险记
+kid,394,http://www.ximalaya.com/20344814/album/323494,必读经典绘本
+kid,395,http://www.ximalaya.com/44627358/album/6340763,葫芦兄弟 第二部《葫芦小金刚》（已完结）
+kid,396,http://www.ximalaya.com/34918396/album/6301388,【米粒妈团购】sing along with me
+kid,397,http://www.ximalaya.com/23596048/album/6666816,《情商管理》系列
+kid,398,http://www.ximalaya.com/61130364/album/5535245,丁丁历险记-红色拉克姆的宝藏-完结
+kid,399,http://www.ximalaya.com/11046214/album/3015741,瑞思k2
+kid,400,http://www.ximalaya.com/1112334/album/235430,美音动画   curious george 好奇猴乔治
+kid,401,http://www.ximalaya.com/62612053/album/6530023,爱探险的朵拉
+kid,402,http://www.ximalaya.com/11130994/album/4562363,复仇者联盟
+kid,403,http://www.ximalaya.com/3143366/album/6092561,幼儿英语启蒙
+kid,404,http://www.ximalaya.com/2399284/album/455902,荷爸英语启蒙群·中文儿歌100首
+kid,405,http://www.ximalaya.com/2927013/album/282427,Puss in Boots(穿靴子的猫)【轻松英语名作欣赏】
+kid,406,http://www.ximalaya.com/37827901/album/3748865,晴天有时下猪——日本儿童文学“荒诞故事”经典中的经典
+kid,407,http://www.ximalaya.com/52690343/album/5468655,吃黑夜的大象
+kid,408,http://www.ximalaya.com/35136624/album/3070641,绘本阅读
+kid,409,http://www.ximalaya.com/10227511/album/3080154,苏菲的世界
+kid,410,http://www.ximalaya.com/13765797/album/6645431,蓝猫健康特攻队104集全[探索人体奥秘]
+kid,411,http://www.ximalaya.com/40168135/album/6117969,巴啦啦小魔仙性格美绘故事
+kid,412,http://www.ximalaya.com/39296230/album/4926071,三只耳朵的代课老师
+kid,413,http://www.ximalaya.com/34786887/album/6059478,孩子睡前 起床 学习安静舒缓舒服松弛音乐——每晚20:00更新
+kid,414,http://www.ximalaya.com/10491711/album/261402,爱探险的DORA  第二季  英文
+kid,415,http://www.ximalaya.com/4841400/album/2680573,霎哈嘉瑜伽儿歌
+kid,416,http://www.ximalaya.com/1461521/album/2781742,孩子，先别急着吃棉花糖
+kid,417,http://www.ximalaya.com/38874591/album/5187080,耳朵里的博物馆｜朋朋说：说给孩子们听的博物馆
+kid,418,http://www.ximalaya.com/33864537/album/5440538,小怪兽阿蒙
+kid,419,http://www.ximalaya.com/9488306/album/253276,诗经 - 国学宝 - 小孔子
+kid,420,http://www.ximalaya.com/18255719/album/3096175,凉凉姐姐讲《爱探险的朵拉》
+kid,421,http://www.ximalaya.com/4298345/album/2822674,爱丽丝奇境历险记
+kid,422,http://www.ximalaya.com/49237810/album/4370924,幼儿童话故事合集
+kid,423,http://www.ximalaya.com/7410727/album/243134,【西顿动物记录】一《孤熊华普的一生》
+kid,424,http://www.ximalaya.com/28666480/album/2687765,中医艾灸养生——儿童经络推拿讲解
+kid,425,http://www.ximalaya.com/47864601/album/5762072,小鑫哥哥的故事课堂
+kid,426,http://www.ximalaya.com/1607935/album/246274,加州英语幼儿园
+kid,427,http://www.ximalaya.com/23389677/album/3107695,ellen读中英文绘本故事
+kid,428,http://www.ximalaya.com/43361493/album/4719927,爸爸的故事汇
+kid,429,http://www.ximalaya.com/6236806/album/291922,《蠢特夫妇》（原创）
+kid,430,http://www.ximalaya.com/34048740/album/3096247,妈妈放心：孕育指南
+kid,431,http://www.ximalaya.com/47296724/album/5581983,中国动画典藏-葫芦兄弟2-水火奇功
+kid,432,http://www.ximalaya.com/32006294/album/2978311,催眠潜意识
+kid,433,http://www.ximalaya.com/56946276/album/4996966,三字经跟读版
+kid,434,http://www.ximalaya.com/41815915/album/4565739,棕熊Brown Bear 原版JY音频
+kid,435,http://www.ximalaya.com/56748244/album/5096522,婴儿画报（睡前故事）
+kid,436,http://www.ximalaya.com/8842182/album/3279631,yoyo宝的甜心小米系列故事
+kid,437,http://www.ximalaya.com/19279887/album/3074845,洪恩巴迪节拍英语
+kid,438,http://www.ximalaya.com/20581213/album/355660,爸爸妈妈讲的睡前十分钟故事
+kid,439,http://www.ximalaya.com/7059120/album/6722138,畅阅亭亲子伴读
+kid,440,http://www.ximalaya.com/19381160/album/381508,贝贝熊
+kid,441,http://www.ximalaya.com/44740151/album/5913777,禾苗社英文绘本百阅计划第二期
+kid,442,http://www.ximalaya.com/44246157/album/5744243,小猪唏哩呼噜【唏哩呼噜和他的弟弟】
+kid,443,http://www.ximalaya.com/11457853/album/3376840,粉红猪peppa pig 第一季
+kid,444,http://www.ximalaya.com/26818622/album/4107441,华夏传奇：八仙的传说
+kid,445,http://www.ximalaya.com/1231616/album/3591364,Diary of A Wimpy Kid 02 Rodrick Rules - Jeff Kinney
+kid,446,http://www.ximalaya.com/62039984/album/5624084,100万只猫系列
+kid,447,http://www.ximalaya.com/21447298/album/3879653,三国演义
+kid,448,http://www.ximalaya.com/57231885/album/5070647,欢乐聊天室
+kid,449,http://www.ximalaya.com/20581213/album/359927,长袜子皮皮
+kid,450,http://www.ximalaya.com/29661571/album/2741106,查理九世
+kid,451,http://www.ximalaya.com/62077157/album/5569004,蓝精灵
+kid,452,http://www.ximalaya.com/7619208/album/2882777,365夜故事
+kid,453,http://www.ximalaya.com/14043986/album/3882271,花格子大象艾玛（双语）
+kid,454,http://www.ximalaya.com/20614122/album/2684238,老动画：黑猫警长
+kid,455,http://www.ximalaya.com/12645786/album/3759052,365夜睡前故事
+kid,456,http://www.ximalaya.com/4741120/album/248191,小小孩影院经典故事
+kid,457,http://www.ximalaya.com/48894805/album/4490840,英文绘本 - The Magic School Bus Science Readers（第一、二辑，20册）
+kid,458,http://www.ximalaya.com/24075043/album/384712,三年级语文（下）HQ 北师大版
+kid,459,http://www.ximalaya.com/35377235/album/6090284,黑猫警长
+kid,460,http://www.ximalaya.com/58898728/album/5871819,孕读
+kid,461,http://www.ximalaya.com/11751382/album/2765236,我和小姐姐克拉拉
+kid,462,http://www.ximalaya.com/58841314/album/6919653,2017苏教版一年级语文下册课文
+kid,463,http://www.ximalaya.com/45737686/album/4479951,宝贝晚安故事
+kid,464,http://www.ximalaya.com/8103567/album/6363461,英文故事
+kid,465,http://www.ximalaya.com/25696036/album/3224730,金宝贝01 Sing GYMBOREE
+kid,466,http://www.ximalaya.com/9757836/album/3415738,童蒙英语学堂（原创）
+kid,467,http://www.ximalaya.com/43682846/album/4536074,猫武士2 寒冰烈火
+kid,468,http://www.ximalaya.com/56600156/album/5220938,装在口袋里的爸爸
+kid,469,http://www.ximalaya.com/41555455/album/5547585,人教版小学语文三年级上册课文朗读
+kid,470,http://www.ximalaya.com/22056591/album/348433,不能错过的英语启蒙 安妮花
+kid,471,http://www.ximalaya.com/73703833/album/6769065,忙忙碌碌镇
+kid,472,http://www.ximalaya.com/19358459/album/330720,All Aboard Reading小企鹅（汪培珽第一阶段 公众号：家庭亲子教育资源集锦）
+kid,473,http://www.ximalaya.com/31977153/album/3275176,百变大小姐
+kid,474,http://www.ximalaya.com/20581213/album/390364,寻找我的妖怪猫
+kid,475,http://www.ximalaya.com/5487657/album/3479981,宝宝晚安(22:00)
+kid,476,http://www.ximalaya.com/17525390/album/2829361,弟子规 三字经 孝经跟读 大曹王寺
+kid,477,http://www.ximalaya.com/1255908/album/228625,海的女儿
+kid,478,http://www.ximalaya.com/5487657/album/2905735,秋霞圃精选早教儿歌
+kid,479,http://www.ximalaya.com/34889729/album/3481104,优秀作文大百科（最新小学生全能宝典）
+kid,480,http://www.ximalaya.com/44499316/album/6993868,安徒生童话
+kid,481,http://www.ximalaya.com/53015444/album/4662047,心探索OK教养亲子公益微课
+kid,482,http://www.ximalaya.com/42291756/album/5340890,不一样的卡梅拉4
+kid,483,http://www.ximalaya.com/11422575/album/2793046,皮皮鲁送你100条命
+kid,484,http://www.ximalaya.com/1545344/album/293696,英语笑话故事
+kid,485,http://www.ximalaya.com/52707212/album/4536038,巧巧兔
+kid,486,http://www.ximalaya.com/52063290/album/5766096,Honey English甜心英语
+kid,487,http://www.ximalaya.com/24941190/album/3940636,青蛙弗洛格系列
+kid,488,http://www.ximalaya.com/22281238/album/6426632,三字儿歌
+kid,489,http://www.ximalaya.com/18687362/album/4115280,包头图书绘本典藏系列
+kid,490,http://www.ximalaya.com/21872215/album/3093970,【溜妈讲故事】斯凯瑞最受欢迎
+kid,491,http://www.ximalaya.com/11801046/album/280997,博雅小学堂【老潘讲新闻】
+kid,492,http://www.ximalaya.com/41506276/album/3988896,原创故事《赛尔号女神传说》
+kid,493,http://www.ximalaya.com/24762067/album/2718535,幼儿画报
+kid,494,http://www.ximalaya.com/5615403/album/2989517,＂小溜溜＂溜了_再见了，怪城
+kid,495,http://www.ximalaya.com/21872215/album/3675901,【溜妈讲故事】植物大战僵尸美德故事系列
+kid,496,http://www.ximalaya.com/17986536/album/3229753,lina老师讲故事
+kid,497,http://www.ximalaya.com/48763481/album/4620061,Twins经典英语儿歌
+kid,498,http://www.ximalaya.com/8010599/album/279881,大画世界经典系列
+kid,499,http://www.ximalaya.com/13691631/album/2726464,猫武士1 呼唤野性
+kid,500,http://www.ximalaya.com/53215626/album/4578690,Food超人趣味英文歌谣
+kid,501,http://www.ximalaya.com/18168781/album/4395729,幼儿园故事集（小班）
+kid,502,http://www.ximalaya.com/49237810/album/4360989,一千零一夜和欧洲童话
+kid,503,http://www.ximalaya.com/73873074/album/6900293,熊出没之夏日连连看
+kid,504,http://www.ximalaya.com/20984046/album/2865794,你好抱抱熊 6个月
+kid,505,http://www.ximalaya.com/11973277/album/266373,绽放姐姐睡前故事
+kid,506,http://www.ximalaya.com/1112334/album/237689,英语启蒙动画片 威比猪Wibbly Pig
+kid,507,http://www.ximalaya.com/44856154/album/3988562,晓慧阿姨讲最好听的动物百科
+kid,508,http://www.ximalaya.com/6342357/album/5251006,怪物大师8 云海国的鱼龙公主
+kid,509,http://www.ximalaya.com/14421209/album/278990,米悦讲故事
+kid,510,http://www.ximalaya.com/9488306/album/253258,黄帝内经 - 国学宝 - 小孔子
+kid,511,http://www.ximalaya.com/5201039/album/368846,《和孩子一起跳舞——给中国幼儿教师的50封信》【美】吴放
+kid,512,http://www.ximalaya.com/67815706/album/6350140,发现最棒的自己
+kid,513,http://www.ximalaya.com/43820464/album/5837628,给孩子最好听的唐诗故事——跟着诗人去旅行
+kid,514,http://www.ximalaya.com/5183162/album/259182,三国演义（3岁以上）
+kid,515,http://www.ximalaya.com/34071566/album/4986219,中国经典神话故事
+kid,516,http://www.ximalaya.com/45765903/album/3968861,【福伦爸爸讲故事】托马斯和他的朋友们
+kid,517,http://www.ximalaya.com/1343095/album/258921,英文经典歌谣一起唱
+kid,518,http://www.ximalaya.com/35422462/album/3092124,【阶梯英语】儿歌同步学（附歌词）
+kid,519,http://www.ximalaya.com/32950847/album/4967445,调皮的日子
+kid,520,http://www.ximalaya.com/70224469/album/6402269,语言表达天天练
+kid,521,http://www.ximalaya.com/26626534/album/3791100,小朋友爱听的童话故事
+kid,522,http://www.ximalaya.com/29496174/album/5614058,霸王龙称霸记
+kid,523,http://www.ximalaya.com/5312020/album/298727,中国民间故事
+kid,524,http://www.ximalaya.com/35422462/album/3096102,【费雪】Best Animal Songs
+kid,525,http://www.ximalaya.com/33494303/album/3280251,大脚丫系列【松鼠讲故事】
+kid,526,http://www.ximalaya.com/10267581/album/338623,【全本】极限探险 巨蟒伏击
+kid,527,http://www.ximalaya.com/35218385/album/3272403,歪歪兔性格教育系列
+kid,528,http://www.ximalaya.com/11457853/album/3376570,song
+kid,529,http://www.ximalaya.com/42650527/album/6934566,奇先生妙小姐全集
+kid,530,http://www.ximalaya.com/13765797/album/6561425,写给儿童的中国历史95集全[历史就是一个个精彩的故事]
+kid,531,http://www.ximalaya.com/59839716/album/5490542,《小王子》
+kid,532,http://www.ximalaya.com/24074907/album/382615,二年级语文（下）HQ S版
+kid,533,http://www.ximalaya.com/17517982/album/6158621,成语故事
+kid,534,http://www.ximalaya.com/24309084/album/3107505,米奇妙妙屋
+kid,535,http://www.ximalaya.com/10314567/album/258741,木成讲故事-小王子全集
+kid,536,http://www.ximalaya.com/14148400/album/2975459,《皮皮鲁送你100条命》音乐系列
+kid,537,http://www.ximalaya.com/18672077/album/369106,彩虹仙子系列音频 Rainbow Magic
+kid,538,http://www.ximalaya.com/18672077/album/360691,小屁孩日记-Diary of a Wimpy Kid-7-（原版书音频）
+kid,539,http://www.ximalaya.com/26709024/album/3247645,植物大战僵尸2武器秘密故事系列4
+kid,540,http://www.ximalaya.com/66374962/album/6581225,学习国学经典经验谈
+kid,541,http://www.ximalaya.com/53204919/album/5688372,古事儿新说 《中国经典神话故事》
+kid,542,http://www.ximalaya.com/51451978/album/6586455,爸爸和六六琪琪读《玩具总动员》（全本12集）
+kid,543,http://www.ximalaya.com/60986227/album/5841524,不一样的卡梅拉第三季
+kid,544,http://www.ximalaya.com/53017439/album/4559817,幼儿绘本
+kid,545,http://www.ximalaya.com/9643983/album/2793055,巧虎学英语 Let' go English
+kid,546,http://www.ximalaya.com/17707629/album/312045,浩然爸爸的童话故事
+kid,547,http://www.ximalaya.com/37402942/album/3250678,暖房子 爱的故事 口袋绘本 幼儿经典绘本故事
+kid,548,http://www.ximalaya.com/45877662/album/6541599,民俗MO讲堂
+kid,549,http://www.ximalaya.com/67704307/album/6798513,森林童话1：大森林的秘密
+kid,550,http://www.ximalaya.com/24935849/album/3778754,丽声妙想英文绘本第七级
+kid,551,http://www.ximalaya.com/64808087/album/6664232,亲子关系的建立
+kid,552,http://www.ximalaya.com/30674011/album/6054400,小猪佩奇 Peppa Pig 生动有趣的亲子绘本 英文版 第三季
+kid,553,http://www.ximalaya.com/32237819/album/2943049,汉语拼音
+kid,554,http://www.ximalaya.com/58219092/album/5141233,第一册CD（下）
+kid,555,http://www.ximalaya.com/26686572/album/3235611,少儿版武林笑侠系列
+kid,556,http://www.ximalaya.com/55527684/album/5073806,小学生心理与健康
+kid,557,http://www.ximalaya.com/5082029/album/304800,小猪唏哩呼噜
+kid,558,http://www.ximalaya.com/33329897/album/3729613,讲给孩子的中国历史（上）
+kid,559,http://www.ximalaya.com/38077665/album/3764740,故事听我说
+kid,560,http://www.ximalaya.com/44516582/album/4127151,父母学堂——提升孩子学习力系列
+kid,561,http://www.ximalaya.com/32504629/album/6249189,西游记
+kid,562,http://www.ximalaya.com/20581213/album/2961797,科学发明发现小故事
+kid,563,http://www.ximalaya.com/24075043/album/384686,三年级英语（下）HQ PEP
+kid,564,http://www.ximalaya.com/1383539/album/3695567,琛琛姐姐讲故事
+kid,565,http://www.ximalaya.com/55390732/album/6631562,【童书经典】借东西的小人 全本
+kid,566,http://www.ximalaya.com/72355618/album/6728943,【人教版】小学语文
+kid,567,http://www.ximalaya.com/23980829/album/3969905,小猪唏哩呼噜-沪语版
+kid,568,http://www.ximalaya.com/36253507/album/3160281,甜甜阿姨讲成语【甜甜阿姨】
+kid,569,http://www.ximalaya.com/45484329/album/6039768,【国际认证哺乳顾问】扫清母乳喂养的常见误区
+kid,570,http://www.ximalaya.com/40707862/album/5129318,三上 自然观察妙趣 专辑二
+kid,571,http://www.ximalaya.com/38821404/album/3487351,育灵童儿童经典诵读套装CD27 弟子规、三字经、百家姓、千字文
+kid,572,http://www.ximalaya.com/33839965/album/3271963,小学必掌握古诗古诗七十首首（完结）
+kid,573,http://www.ximalaya.com/1097186/album/2864605,经典童话 小王子
+kid,574,http://www.ximalaya.com/11021940/album/318490,硕羽儿童财商系列故事
+kid,575,http://www.ximalaya.com/56525976/album/5093011,国学诵读本系列：中华古诗选（详解详注诵读本）朗诵音频
+kid,576,http://www.ximalaya.com/38821404/album/3607285,人教语文五年级下册 课文朗读
+kid,577,http://www.ximalaya.com/12764876/album/457081,新小布头奇遇记
+kid,578,http://www.ximalaya.com/30920138/album/3007263,穷羊倌如何变首富
+kid,579,http://www.ximalaya.com/20389771/album/3329392,小乌龟富兰克林情商培养故事·人际交往系列（共8册）
+kid,580,http://www.ximalaya.com/57436749/album/6952458,《精灵高中》（1~6季全，除第5季）【动画原声】
+kid,581,http://www.ximalaya.com/19077571/album/3061047,长大我最棒
+kid,582,http://www.ximalaya.com/3236932/album/4068472,麦克斯和卢比Max and Ruby
+kid,583,http://www.ximalaya.com/43085838/album/4507887,没有尾巴的狼
+kid,584,http://www.ximalaya.com/60790677/album/5730374,亲子故事
+kid,585,http://www.ximalaya.com/29381510/album/5794617,石头爸爸讲故事
+kid,586,http://www.ximalaya.com/57860856/album/5171276,初夏儿童睡前故事
+kid,587,http://www.ximalaya.com/36250354/album/4545830,小猪佩奇
+kid,588,http://www.ximalaya.com/26674241/album/429514,爱丽丝漫游奇境记
+kid,589,http://www.ximalaya.com/56028136/album/6653865,【全本】知名儿童文学作家王钢老师作品《我们的非凡小学》之 班里唯一的女生
+kid,590,http://www.ximalaya.com/1112334/album/191277,美音动画视频  Clifford 大红狗
+kid,591,http://www.ximalaya.com/56300497/album/6435263,朱天衣的作文课第四册
+kid,592,http://www.ximalaya.com/1255908/album/212109,全球著名绘本故事
+kid,593,http://www.ximalaya.com/5727768/album/4913453,魔女故事屋-葫芦兄弟（全）
+kid,594,http://www.ximalaya.com/33847646/album/3784829,【唐颂教育】之唐诗三百首系列
+kid,595,http://www.ximalaya.com/10020117/album/268227,安徒生童话
+kid,596,http://www.ximalaya.com/40675428/album/4184671,英文童谣精装精选特辑
+kid,597,http://www.ximalaya.com/37691561/album/3321309,格林童话故事
+kid,598,http://www.ximalaya.com/20581213/album/388998,爱德华的奇妙之旅
+kid,599,http://www.ximalaya.com/30575273/album/2975071,听听孩子的心里话
+kid,600,http://www.ximalaya.com/41123341/album/3573553,低龄故事
+kid,601,http://www.ximalaya.com/33230998/album/3031211,莲花故事小组原创《广传-白莲花》
+kid,602,http://www.ximalaya.com/19381160/album/313206,巴巴爸爸
+kid,603,http://www.ximalaya.com/20581213/album/2806474,小熊维尼温馨双语故事
+kid,604,http://www.ximalaya.com/17920205/album/3366878,儿童听历史故事1（完结）
+kid,605,http://www.ximalaya.com/47296724/album/5582018,中国动画典藏-阿凡提的故事3-偷东西的驴
+kid,606,http://www.ximalaya.com/1071515/album/366262,The wizard of OZ..
+kid,607,http://www.ximalaya.com/40306020/album/3529813,最棒的故事托马斯和他的朋友们
+kid,608,http://www.ximalaya.com/15962089/album/6562758,小公主苏菲亚歌曲大全（中文+英文）
+kid,609,http://www.ximalaya.com/24075043/album/383939,三年级语文（下）HQ 沪教版
+kid,610,http://www.ximalaya.com/44740151/album/5623580,禾苗社英文绘本百阅计划第一期
+kid,611,http://www.ximalaya.com/22873240/album/4450817,曼曼成长记
+kid,612,http://www.ximalaya.com/16001075/album/3761969,听，绘本故事-台湾版
+kid,613,http://www.ximalaya.com/20389771/album/3793072,小乌龟富兰克林情商培养故事·情绪与行为管理系列（套装共8册）
+kid,614,http://www.ximalaya.com/6114200/album/235898,经典治愈童话-小王子【口袋故事】
+kid,615,http://www.ximalaya.com/30861780/album/2907634,小虎神探队之会行走的神灯(上，下)两册
+kid,616,http://www.ximalaya.com/37895960/album/4240768,疯狂动物城
+kid,617,http://www.ximalaya.com/38474661/album/4422188,长腿叔叔信箱
+kid,618,http://www.ximalaya.com/37337506/album/5349305,君伟上小学-二年级问题多
+kid,619,http://www.ximalaya.com/34071566/album/4800313,头脑特工队
+kid,620,http://www.ximalaya.com/34133146/album/4770155,儿童睡前故事（每晚八点半更新）
+kid,621,http://www.ximalaya.com/40102985/album/5148461,葫芦兄弟
+kid,622,http://www.ximalaya.com/32175678/album/5552831,18个科学探索小故事
+kid,623,http://www.ximalaya.com/26525605/album/3695675,安妮花磨耳朵2
+kid,624,http://www.ximalaya.com/40039750/album/6839427,漫长的冬季
+kid,625,http://www.ximalaya.com/1000648/album/299375,儿歌童谣
+kid,626,http://www.ximalaya.com/27887440/album/6798090,绘本
+kid,627,http://www.ximalaya.com/28158171/album/2864155,米奇妙妙屋
+kid,628,http://www.ximalaya.com/57690703/album/5236535,食物营养专栏
+kid,629,http://www.ximalaya.com/10999551/album/4276822,格林童话
+kid,630,http://www.ximalaya.com/19519868/album/3380296,植物大战僵尸系列 超级僵尸老师
+kid,631,http://www.ximalaya.com/39243069/album/3385525,lily老师讲故事
+kid,632,http://www.ximalaya.com/9742034/album/3155584,轻松英语名作欣赏第3级-圣诞颂歌
+kid,633,http://www.ximalaya.com/30637707/album/6775950,培养杰出男孩的130个故事
+kid,634,http://www.ximalaya.com/6866355/album/242847,神奇校车第三辑
+kid,635,http://www.ximalaya.com/13051151/album/6865699,爱丽丝梦游仙境
+kid,636,http://www.ximalaya.com/6464843/album/2769016,精选绘本（海豚绘本系列、信谊系列等）
+kid,637,http://www.ximalaya.com/9488306/album/253278,古文观止 - 国学宝 - 小孔子
+kid,638,http://www.ximalaya.com/38821404/album/3487289,育灵童儿童经典诵读套装CD21-22 历代诗歌A-B
+kid,639,http://www.ximalaya.com/22415243/album/355534,智象讲故事
+kid,640,http://www.ximalaya.com/45810262/album/3981613,智多多与罗比的故事
+kid,641,http://www.ximalaya.com/29086566/album/4898730,皮特猫英文音频pet the cat
+kid,642,http://www.ximalaya.com/32317625/album/6921056,An elephant and piggie 小猪和小象
+kid,643,http://www.ximalaya.com/11697743/album/266948,花儿蔓故事园（学前故事3~6.7岁）
+kid,644,http://www.ximalaya.com/32294969/album/5154969,米奇妙妙屋英文版第二季（39集）
+kid,645,http://www.ximalaya.com/34187586/album/3736219,小飞侠彼得潘
+kid,646,http://www.ximalaya.com/10487079/album/334672,悦悦姐姐讲故事（笑话故事、成语故事、伊索寓言等）
+kid,647,http://www.ximalaya.com/45769826/album/4919105,父母必听《骑鲸之旅》（绘本理论）
+kid,648,http://www.ximalaya.com/56808966/album/5381255,小巫教你讲故事
+kid,649,http://www.ximalaya.com/20581213/album/2962020,老鼠的故事
+kid,650,http://www.ximalaya.com/8437628/album/248092,家道:快乐早教
+kid,651,http://www.ximalaya.com/14074023/album/2700921,双语宝宝工作坊——一年级的小密瓜
+kid,652,http://www.ximalaya.com/54189345/album/5786463,粉红猪小妹（第一季） Peppa pig 原版音频
+kid,653,http://www.ximalaya.com/37895960/album/5016872,西游记（少儿版）
+kid,654,http://www.ximalaya.com/35382900/album/4776816,温妮女巫魔法绘本
+kid,655,http://www.ximalaya.com/53664310/album/4957923,贝贝熊 行为教育 更新中！【听跳跳讲故事】
+kid,656,http://www.ximalaya.com/7608254/album/4808964,【唯一童年】大班故事（下）
+kid,657,http://www.ximalaya.com/17920151/album/4703438,淼妈讲故事
+kid,658,http://www.ximalaya.com/30575273/album/2803828,足球闹天宫
+kid,659,http://www.ximalaya.com/29631500/album/2741115,孩子来自天堂
+kid,660,http://www.ximalaya.com/16617372/album/3396442,八扇屏全本录音朗读版-儿童相声贯口教材
+kid,661,http://www.ximalaya.com/18672077/album/335545,苏西托曼的经典英文儿歌集Susie Tallman
+kid,662,http://www.ximalaya.com/53096117/album/5569914,牛皮兔亨利的危险书
+kid,663,http://www.ximalaya.com/51416543/album/4400551,天才养成33课
+kid,664,http://www.ximalaya.com/17831303/album/298817,动物寓言故事
+kid,665,http://www.ximalaya.com/40102985/album/4035090,神奇校车
+kid,666,http://www.ximalaya.com/41776242/album/4408094,哈尔罗杰历险记
+kid,667,http://www.ximalaya.com/32294969/album/4605969,《洪恩宝宝学数学》
+kid,668,http://www.ximalaya.com/64808087/album/6664359,教育理念听我说
+kid,669,http://www.ximalaya.com/10227511/album/4061037,韩国校园励志系列《你是我的真朋友》
+kid,670,http://www.ximalaya.com/56745011/album/5362724,崔玉涛小儿护理
+kid,671,http://www.ximalaya.com/34914805/album/4120068,小狗钱钱 - 童话故事 睡前故事
+kid,672,http://www.ximalaya.com/43133327/album/4160604,Peppa pig .season.1
+kid,673,http://www.ximalaya.com/12834827/album/315835,第一次发现丛书
+kid,674,http://www.ximalaya.com/41904909/album/5414636,磨出宝宝的英文耳朵 2
+kid,675,http://www.ximalaya.com/25587662/album/425347,七彩葫芦
+kid,676,http://www.ximalaya.com/36608066/album/3179678,嘀嗒阅读
+kid,677,http://www.ximalaya.com/26759818/album/3980588,妈妈强大了，孩子才优秀-罗玲老师
+kid,678,http://www.ximalaya.com/32294969/album/5518190,二十四孝儿童版（24集）
+kid,679,http://www.ximalaya.com/12921088/album/5299347,亚瑟棒小子系列双语图画书（全10册）原汁原味少儿英语故事
+kid,680,http://www.ximalaya.com/1086268/album/390652,英文原版绘本配音
+kid,681,http://www.ximalaya.com/19077571/album/6492071,蒲公英汽车绘本
+kid,682,http://www.ximalaya.com/38657562/album/6147812,牛津树 ORT 美音 6-9
+kid,683,http://www.ximalaya.com/64445170/album/6576140,童话故事
+kid,684,http://www.ximalaya.com/33887177/album/3979256,孩子们的音乐之旅——动物伙伴
+kid,685,http://www.ximalaya.com/10257665/album/4659942,365夜睡前故事之甜梦童话
+kid,686,http://www.ximalaya.com/34928939/album/6516821,幼儿汉语第四册
+kid,687,http://www.ximalaya.com/43733866/album/4725632,理查德·斯凯瑞-有趣的故事书-忙忙碌碌镇-贵州人民出版社
+kid,688,http://www.ximalaya.com/30748874/album/5193885,辣妈日记
+kid,689,http://www.ximalaya.com/3599592/album/3088525,汤姆兔子
+kid,690,http://www.ximalaya.com/55995626/album/5785194,坚果妈妈讲故事之小小问不倒
+kid,691,http://www.ximalaya.com/72928628/album/6812435,问题答疑_专注力篇
+kid,692,http://www.ximalaya.com/3712969/album/261132,【西瓜哥哥读古诗】
+kid,693,http://www.ximalaya.com/3552415/album/6021721,美国金宝贝早教婴儿游戏0-1岁
+kid,694,http://www.ximalaya.com/10036944/album/3164340,玛蒂娜-一个优雅女孩的成长故事
+kid,695,http://www.ximalaya.com/20984046/album/2865802,你好抱抱熊 9个月
+kid,696,http://www.ximalaya.com/11801046/album/5153988,博雅小学堂【地球妈妈讲故事】
+kid,697,http://www.ximalaya.com/14465407/album/319156,小海绵科学启蒙绘本
+kid,698,http://www.ximalaya.com/34117746/album/4779570,小熊维尼-我是最棒的
+kid,699,http://www.ximalaya.com/31532654/album/6530339,大米讲故事
+kid,700,http://www.ximalaya.com/13655959/album/280212,好绘本讲起来【微信订阅：A13104422002】_快乐宝亲子童书馆出品
+kid,701,http://www.ximalaya.com/27556874/album/3081955,Yuki——-粉红猪小妹系列（17个故事）
+kid,702,http://www.ximalaya.com/16617372/album/302569,怪叔叔讲故事：诸子百家少儿版
+kid,703,http://www.ximalaya.com/41710551/album/4906217,梦城堡 [儿童睡前故事]
+kid,704,http://www.ximalaya.com/43561134/album/3790642,八兔亲子励志铭
+kid,705,http://www.ximalaya.com/44393874/album/6908286,娟子妈妈讲故事——星岛乐园：叮咚和闪亮《地球大冒险》
+kid,706,http://www.ximalaya.com/30575273/album/2804223,猫侠传说
+kid,707,http://www.ximalaya.com/54594067/album/6156254,小叮当讲故事
+kid,708,http://www.ximalaya.com/19077571/album/3881326,宝宝生活基本功
+kid,709,http://www.ximalaya.com/34918396/album/5289104,【米粒妈讲】粉红猪小妹（米粒妈真人示范！）
+kid,710,http://www.ximalaya.com/43889051/album/4267390,Kinder power 清华幼儿英语 1a
+kid,711,http://www.ximalaya.com/5702062/album/308356,灯塔守护人（大悟妈妈播讲）
+kid,712,http://www.ximalaya.com/24702227/album/2657445,英文经典绘本
+kid,713,http://www.ximalaya.com/16617372/album/4625994,怪叔叔讲故事：中华成语故事完整高清少儿版
+kid,714,http://www.ximalaya.com/9924409/album/344653,小小音乐家-柴可夫斯基和玩具王国
+kid,715,http://www.ximalaya.com/34513399/album/3063162,爱探险的朵拉系列故事第七辑•勇敢出发
+kid,716,http://www.ximalaya.com/23272147/album/4385216,这里有一只恐龙系列
+kid,717,http://www.ximalaya.com/20581213/album/340873,台湾光复《经典音乐家列传》
+kid,718,http://www.ximalaya.com/38163212/album/3890740,童话故事
+kid,719,http://www.ximalaya.com/9177951/album/6234374,清华幼儿英语3A 亲子共读
+kid,720,http://www.ximalaya.com/35014284/album/5792916,小顾讲罗克的故事
+kid,721,http://www.ximalaya.com/20218556/album/322945,分级英语童话故事（800词汇）
+kid,722,http://www.ximalaya.com/35781928/album/6083011,Peppa Pig - 第三季原版音频
+kid,723,http://www.ximalaya.com/45851570/album/4897768,安妮讲故事
+kid,724,http://www.ximalaya.com/5130532/album/2936056,妞妈故事会
+kid,725,http://www.ximalaya.com/16836740/album/4028872,希利尔讲艺术史（建筑部分）
+kid,726,http://www.ximalaya.com/34769834/album/3143929,外国历史故事
+kid,727,http://www.ximalaya.com/37183690/album/3253792,学会爱自己
+kid,728,http://www.ximalaya.com/13803881/album/4989540,神奇校车第一辑
+kid,729,http://www.ximalaya.com/35412524/album/3145783,智慧妈妈
+kid,730,http://www.ximalaya.com/25614468/album/6453218,素读经典（一年级下）
+kid,731,http://www.ximalaya.com/30077393/album/3745011,[籽妈推荐绘本] My mum by Anthony Browne
+kid,732,http://www.ximalaya.com/46682621/album/4076365,小屁孩上学记之一年级我来了
+kid,733,http://www.ximalaya.com/43691165/album/5146922,《城南旧事》林海音 著
+kid,734,http://www.ximalaya.com/46038837/album/5371940,（完）小猪唏哩呼噜和猪八戒
+kid,735,http://www.ximalaya.com/7410727/album/243404,【西顿动物记】三《永远的领袖银斑》
+kid,736,http://www.ximalaya.com/35873265/album/6586716,科学家的故事
+kid,737,http://www.ximalaya.com/64081281/album/6429305,四年级下册
+kid,738,http://www.ximalaya.com/41843248/album/3721350,好心眼儿巨人(已完结)
+kid,739,http://www.ximalaya.com/13765797/album/6553938,魔法小女巫5册全[英国当代最优秀的儿童作家和画家之一吉尔·墨菲作品]
+kid,740,http://www.ximalaya.com/1545344/album/3505170,可乐姐姐互动站-周末更
+kid,741,http://www.ximalaya.com/34774357/album/4311965,献给孩子的童话
+kid,742,http://www.ximalaya.com/5882979/album/3828091,小英雄故事
+kid,743,http://www.ximalaya.com/20389771/album/3367976,小乌龟富兰克林情商培养故事·社会适应系列（套装共6册）
+kid,744,http://www.ximalaya.com/35611831/album/4529487,读绘本
+kid,745,http://www.ximalaya.com/54766705/album/4787210,刘熙源讲故事~冒险恐龙岛
+kid,746,http://www.ximalaya.com/62077157/album/6078738,小马宝莉
+kid,747,http://www.ximalaya.com/24883577/album/3881146,Magic School Bus绘本音频
+kid,748,http://www.ximalaya.com/34168360/album/6616154,我的第一本数学童话
+kid,749,http://www.ximalaya.com/44830575/album/3882901,陪你读绘本
+kid,750,http://www.ximalaya.com/40838972/album/3563248,刘老师讲故事
+kid,751,http://www.ximalaya.com/23263644/album/6728286,给孩子的古诗词（叶嘉莹）
+kid,752,http://www.ximalaya.com/70234595/album/6499326,谢天谢地和百变爸妈
+kid,753,http://www.ximalaya.com/2214013/album/281022,金宝贝Helen Doron Early English适合3-22个月（1-2）
+kid,754,http://www.ximalaya.com/30054775/album/3247564,儿童益智故事大全
+kid,755,http://www.ximalaya.com/38602909/album/3779113,二十四节气
+kid,756,http://www.ximalaya.com/41832985/album/4865240,儿童的人格形成及其培养
+kid,757,http://www.ximalaya.com/62135244/album/5622536,儿童读物《西游记》
+kid,758,http://www.ximalaya.com/39882165/album/5602592,三年级的小豆豆
+kid,759,http://www.ximalaya.com/31348184/album/4645631,儿童睡前故事大全
+kid,760,http://www.ximalaya.com/48511482/album/5623508,毛豆妈妈
+kid,761,http://www.ximalaya.com/11801046/album/267325,听绘本
+kid,762,http://www.ximalaya.com/6716773/album/5776626,大师名作绘本馆
+kid,763,http://www.ximalaya.com/1736955/album/6681062,培养七个好习惯
+kid,764,http://www.ximalaya.com/12834827/album/272040,海绵宝宝
+kid,765,http://www.ximalaya.com/10491711/album/468809,国家地理儿童百科 提高级
+kid,766,http://www.ximalaya.com/7702688/album/260016,转载《一千零一夜》
+kid,767,http://www.ximalaya.com/31709287/album/3380377,绘本大师汉斯比尔作品系列
+kid,768,http://www.ximalaya.com/4700547/album/4824605,中华德育故事
+kid,769,http://www.ximalaya.com/18860133/album/4078002,女巫温妮的故事
+kid,770,http://www.ximalaya.com/33526086/album/3136404,姨妈讲故事
+kid,771,http://www.ximalaya.com/22596099/album/5262202,西西客-［奇先生妙小姐］
+kid,772,http://www.ximalaya.com/25136015/album/423745,小草莓绘本花园
+kid,773,http://www.ximalaya.com/13032049/album/273733,Letterland 一级下册1
+kid,774,http://www.ximalaya.com/19437770/album/6470381,周小燕吖讲寓言
+kid,775,http://www.ximalaya.com/20556829/album/2732700,晓程故事
+kid,776,http://www.ximalaya.com/3915870/album/4080072,幼儿英语语感启蒙经典
+kid,777,http://www.ximalaya.com/19279887/album/3070704,节拍英语儿歌
+kid,778,http://www.ximalaya.com/29944823/album/2803297,Biscuit Storybook Collection
+kid,779,http://www.ximalaya.com/47528804/album/5257244,爱心企鹅
+kid,780,http://www.ximalaya.com/39234245/album/5595627,君伟上小学
+kid,781,http://www.ximalaya.com/4034355/album/4359855,全世界独一无二的小公主 The Little Princess's Big Bookshelf
+kid,782,http://www.ximalaya.com/9742034/album/3253242,书虫1级上之3 在月亮下面
+kid,783,http://www.ximalaya.com/24075238/album/390166,五年级英语（下）HQ 精通版
+kid,784,http://www.ximalaya.com/37183690/album/3238645,暖暖心绘本
+kid,785,http://www.ximalaya.com/38675276/album/4766042,海底小纵队
+kid,786,http://www.ximalaya.com/6008200/album/2936236,假如给我三天光明
+kid,787,http://www.ximalaya.com/45422839/album/4116018,原版英文绘本故事
+kid,788,http://www.ximalaya.com/20581213/album/2987988,巧虎自然大惊奇
+kid,789,http://www.ximalaya.com/38639394/album/4394577,童话故事——潮汕话版本
+kid,790,http://www.ximalaya.com/14041751/album/276929,可乐果妈妈的亲子生活
+kid,791,http://www.ximalaya.com/14913400/album/2729966,小狗宾巴
+kid,792,http://www.ximalaya.com/42095097/album/5214287,一(4)班-小学生必背古诗70首-名家朗读-小学生必背古诗80首
+kid,793,http://www.ximalaya.com/6325245/album/2656480,巧虎9个月亲子动物秀
+kid,794,http://www.ximalaya.com/21001291/album/6374450,开启中医之门
+kid,795,http://www.ximalaya.com/23952002/album/3180423,peppa pig 1 (粉红猪小妹第一季）
+kid,796,http://www.ximalaya.com/30243018/album/4805589,剑桥双语分级阅读•小说馆-第三级1-《海边的别墅》
+kid,797,http://www.ximalaya.com/38821404/album/3474760,育灵童儿童经典诵读套装CD6 大学、中庸
+kid,798,http://www.ximalaya.com/6036022/album/6329225,植物的智慧
+kid,799,http://www.ximalaya.com/10239883/album/264960,傻狗温迪克
+kid,800,http://www.ximalaya.com/45301510/album/5730563,momo版美少女战士第四部
+kid,801,http://www.ximalaya.com/29793899/album/2955181,《歪歪兔—财商》（全）
+kid,802,http://www.ximalaya.com/47991421/album/4206360,经典诵读
+kid,803,http://www.ximalaya.com/32743443/album/3930268,Peppa Pig Season 1
+kid,804,http://www.ximalaya.com/4034355/album/4590317,Eric Carle 卡爷爷经典绘本（多版本-大音量）
+kid,805,http://www.ximalaya.com/10239500/album/257878,《财爸商妈富孩子》
+kid,806,http://www.ximalaya.com/48187776/album/4451717,宝贝学习天地
+kid,807,http://www.ximalaya.com/34918396/album/6654468,【米粒妈团购】Usborne自然拼读故事屋 最适合中国孩子的自然拼读
+kid,808,http://www.ximalaya.com/35234160/album/3156204,粤语 巧巧兔的故事
+kid,809,http://www.ximalaya.com/1071515/album/2659757,Disney Stories
+kid,810,http://www.ximalaya.com/21426047/album/371482, 让宝贝幸福的100个维尼故事
+kid,811,http://www.ximalaya.com/10389320/album/5642912,你好科学系列儿童科普绘本
+kid,812,http://www.ximalaya.com/1337610/album/5917241,成语接龙
+kid,813,http://www.ximalaya.com/33529914/album/5244239,【宝贝家原创】快乐中秋节
+kid,814,http://www.ximalaya.com/63165249/album/6563298,乐多多写给美丽女孩
+kid,815,http://www.ximalaya.com/16951243/album/301245,英文绘本-4级
+kid,816,http://www.ximalaya.com/40066644/album/5399102,雷梦拉八岁
+kid,817,http://www.ximalaya.com/46033838/album/4284526,消防员山姆
+kid,818,http://www.ximalaya.com/33143455/album/4512692,科学家的故事
+kid,819,http://www.ximalaya.com/40918795/album/5203216,YOYO的公主故事
+kid,820,http://www.ximalaya.com/55629559/album/5170538,蛋姐讲故事|爱在成长系列•暖暖爱
+kid,821,http://www.ximalaya.com/11542528/album/412891,巴巴爸爸的故事
+kid,822,http://www.ximalaya.com/14990209/album/2817634,天书奇谭
+kid,823,http://www.ximalaya.com/18255719/album/4048672,凉凉姐姐讲《疯狂动物城》
+kid,824,http://www.ximalaya.com/13691631/album/4835045,世界第一 少年侦探团 3地牢深处的奇怪回声
+kid,825,http://www.ximalaya.com/18318119/album/416130,【我和妈妈讲故事】彩色世界童话全集
+kid,826,http://www.ximalaya.com/35668853/album/4348000,《神奇校车》--夏月故事会
+kid,827,http://www.ximalaya.com/46219281/album/4014020,茜茜公主讲故事
+kid,828,http://www.ximalaya.com/23938984/album/359756,每周故事
+kid,829,http://www.ximalaya.com/10227511/album/5487834,写给孩子的哲学启蒙书第七卷
+kid,830,http://www.ximalaya.com/22750705/album/5761992,我爱阅读丛书黄色系列
+kid,831,http://www.ximalaya.com/44577990/album/3852904,5-6岁-鞠萍姐姐讲故事1
+kid,832,http://www.ximalaya.com/18672077/album/334519,牛津阅读树 ORT-10-11级（原版配书音频）
+kid,833,http://www.ximalaya.com/30243018/album/3802747,剑桥双语分级阅读 彩绘小说馆（入门级）
+kid,834,http://www.ximalaya.com/46038837/album/6303782,中国传统文化欣赏
+kid,835,http://www.ximalaya.com/43239466/album/6244337,四字词语大全
+kid,836,http://www.ximalaya.com/34722874/album/4609235,恐龙大陆 少儿播讲【6+】
+kid,837,http://www.ximalaya.com/5384644/album/255320,佛教英文儿歌
+kid,838,http://www.ximalaya.com/9249877/album/3548669,海外五千年^_^
+kid,839,http://www.ximalaya.com/5216813/album/4526219,芒果妈妈分享育儿心得
+kid,840,http://www.ximalaya.com/46038837/album/4888920,青蛙和蟾蜍快乐时光
+kid,841,http://www.ximalaya.com/8985442/album/2975729,月亮妈妈讲故事
+kid,842,http://www.ximalaya.com/27449098/album/5459754,原典英语
+kid,843,http://www.ximalaya.com/23263644/album/5290292,StroyWorlds-9
+kid,844,http://www.ximalaya.com/47153917/album/4160406,【成长说】卡由英文版
+kid,845,http://www.ximalaya.com/5030383/album/2669136,小学生学说上海话
+kid,846,http://www.ximalaya.com/18801781/album/2818309,弟子规
+kid,847,http://www.ximalaya.com/23592196/album/6335804,动物兄弟第一季英文版
+kid,848,http://www.ximalaya.com/15438077/album/284506,萌萌姐姐绘本点读( 2015系列）
+kid,849,http://www.ximalaya.com/31876586/album/4345986,迪士尼精彩世界 鲨鱼家族
+kid,850,http://www.ximalaya.com/1128494/album/195101,大脸猫的蓝色电话机
+kid,851,http://www.ximalaya.com/14313536/album/6420331,窗边的小豆豆
+kid,852,http://www.ximalaya.com/48146999/album/4255654,东方文明的起源
+kid,853,http://www.ximalaya.com/43053537/album/3947783,吴姐姐讲历史故事
+kid,854,http://www.ximalaya.com/56955986/album/6420007,好听的故事
+kid,855,http://www.ximalaya.com/51773700/album/4481110,儿童睡前故事
+kid,856,http://www.ximalaya.com/32311824/album/4772865,凉州词 王翰-第八届和若虹妈妈一起讲古诗配音大赛
+kid,857,http://www.ximalaya.com/6225306/album/4901230,六下牛津英语一课一练听力
+kid,858,http://www.ximalaya.com/32302250/album/3775306,小白鹅找妈妈——葛翠琳童话
+kid,859,http://www.ximalaya.com/1211210/album/243204,泡泡英语第二级
+kid,860,http://www.ximalaya.com/18672077/album/355381,Maisy-小老鼠波波绘本及动画音频（小荷读书推荐）
+kid,861,http://www.ximalaya.com/34876258/album/3123642,FLC全爱空间《儿童饮食与健康》
+kid,862,http://www.ximalaya.com/48151750/album/4391057,诺姐的睡前故事
+kid,863,http://www.ximalaya.com/8516129/album/250620,陪伴吾儿读书
+kid,864,http://www.ximalaya.com/17920205/album/3222336,我和小姐姐克拉拉（完结）
+kid,865,http://www.ximalaya.com/19702343/album/328985,沈阳频道《宝贝工作室》节目录音
+kid,866,http://www.ximalaya.com/3956006/album/3186418,《妈妈，我记得你》 池川明著
+kid,867,http://www.ximalaya.com/57436749/album/5354417,《我能考第一—跟我学语文》（暂时弃更）【RENEE_L播讲】
+kid,868,http://www.ximalaya.com/26933871/album/411937,双语童话故事
+kid,869,http://www.ximalaya.com/56163699/album/4882881,喵喵姐姐讲故事
+kid,870,http://www.ximalaya.com/74906243/album/6873339,朵拉老师讲故事
+kid,871,http://www.ximalaya.com/71898677/album/6532869,乐乐睡前故事
+kid,872,http://www.ximalaya.com/10227511/album/410316,写给孩子的哲学启蒙书第六卷
+kid,873,http://www.ximalaya.com/14693654/album/366190,世界音乐绘本
+kid,874,http://www.ximalaya.com/11443922/album/4710908,罗尔德·达尔《玛蒂尔达》
+kid,875,http://www.ximalaya.com/23394752/album/4340017,为女儿读100本书计划-养智
+kid,876,http://www.ximalaya.com/11457853/album/3846929,mother goose club
+kid,877,http://www.ximalaya.com/45437432/album/4307960,美美兔火火兔-儿童睡前故事
+kid,878,http://www.ximalaya.com/9595092/album/6609288,神奇的校车
+kid,879,http://www.ximalaya.com/38657562/album/6908655,Pete the Cat 6本
+kid,880,http://www.ximalaya.com/33329897/album/3730954,吴姐姐讲历史故事（4）
+kid,881,http://www.ximalaya.com/3236932/album/5383208,吴姐姐讲历史故事601-800
+kid,882,http://www.ximalaya.com/37260929/album/3253800,一千零一夜第一季
+kid,883,http://www.ximalaya.com/33335018/album/6040487,冰小鸭的春天
+kid,884,http://www.ximalaya.com/45006628/album/4671795,廖彩杏书单
+kid,885,http://www.ximalaya.com/42147581/album/3656803,0-6岁早教育儿百科
+kid,886,http://www.ximalaya.com/18672077/album/1072852,44-城堡的秘密（国际大奖小说）
+kid,887,http://www.ximalaya.com/17410851/album/3400149,廖彩杏英文书单（JYBOOK-NOBOUNG+THE OTHERS SOUNDS)（THE END)
+kid,888,http://www.ximalaya.com/24079716/album/384659,嘟豆原创童话
+kid,889,http://www.ximalaya.com/18672077/album/334500,牛津阅读树 ORT-9级（原版配小书音频）
+kid,890,http://www.ximalaya.com/9742034/album/3155566,轻松英语名作欣赏第3级-秘密花园
+kid,891,http://www.ximalaya.com/1000470/album/678,传统故事
+kid,892,http://www.ximalaya.com/26674241/album/429596,绿野仙踪
+kid,893,http://www.ximalaya.com/7655324/album/290365,贝贝熊系列丛书（第一辑）
+kid,894,http://www.ximalaya.com/20218556/album/332421,知名绘本综合
+kid,895,http://www.ximalaya.com/11559801/album/5633264,给孩子读诗
+kid,896,http://www.ximalaya.com/9742034/album/3236601,小屁孩日记15我和我的小伙伴们
+kid,897,http://www.ximalaya.com/51496801/album/5013848,The Carrot Seed 吴敏兰84
+kid,898,http://www.ximalaya.com/48216650/album/4457711,贝贝熊系列故事
+kid,899,http://www.ximalaya.com/17734063/album/4656224,北京童谣-地理谜语，风物习俗
+kid,900,http://www.ximalaya.com/35714685/album/4106992,书虫 美绘版 花木兰
+kid,901,http://www.ximalaya.com/8552931/album/6444542,丸子妈妈亲子旅行声音日记
+kid,902,http://www.ximalaya.com/42997101/album/4742453,（完）贝贝熊系列丛书
+kid,903,http://www.ximalaya.com/10967335/album/4209718,安徒生童话
+kid,904,http://www.ximalaya.com/62578980/album/5935557,毛豆妈妈讲故事
+kid,905,http://www.ximalaya.com/59194221/album/5476764,双语绘本
+kid,906,http://www.ximalaya.com/1687033/album/285712,小公主的睡前故事
+kid,907,http://www.ximalaya.com/53564073/album/4828719,安全教育绘本
+kid,908,http://www.ximalaya.com/41951737/album/4617272,日有所诵 英文诵读第1级 适合小学3年级 已完结
+kid,909,http://www.ximalaya.com/34659330/album/5226987,青蛙弗洛格的成长故事第二辑
+kid,910,http://www.ximalaya.com/28254545/album/5177522,苏教译林版 英语 二年级 课文讲解分析
+kid,911,http://www.ximalaya.com/31240756/album/3055323,不一样的卡梅拉
+kid,912,http://www.ximalaya.com/52766967/album/4541780,格林童话-任不美版
+kid,913,http://www.ximalaya.com/10638200/album/3300582,梦剧
+kid,914,http://www.ximalaya.com/2186254/album/211184,【共读】中英文经典绘本
+kid,915,http://www.ximalaya.com/2927013/album/274084,Dr. Seuss系列绘本【英文读物】
+kid,916,http://www.ximalaya.com/38699833/album/3524908,【寓言故事】
+kid,917,http://www.ximalaya.com/35785066/album/3288019,猫武士 不为人知的故事【完结】
+kid,918,http://www.ximalaya.com/20218556/album/2695603,学乐绘本音频
+kid,919,http://www.ximalaya.com/4034355/album/4397745,木偶奇遇记（38集）
+kid,920,http://www.ximalaya.com/32927907/album/4020500,《神秘岛》凡尔纳
+kid,921,http://www.ximalaya.com/2703744/album/264328,人体情绪使用手册
+kid,922,http://www.ximalaya.com/51144341/album/5955690,比得兔 经典绘本
+kid,923,http://www.ximalaya.com/35254439/album/5219174,我和小姐姐克拉拉
+kid,924,http://www.ximalaya.com/1255908/album/193293,0-1岁幼儿教育
+kid,925,http://www.ximalaya.com/32148366/album/6418604,作文大全
+kid,926,http://www.ximalaya.com/26549027/album/4910410,经典故事集
+kid,927,http://www.ximalaya.com/55795226/album/4845576,幼儿故事会
+kid,928,http://www.ximalaya.com/26713113/album/403558,童声童话   （木荣姐姐篇）
+kid,929,http://www.ximalaya.com/31358735/album/2840278,猫姨九点故事屋
+kid,930,http://www.ximalaya.com/26919894/album/3552402,俐俐讲故事
+kid,931,http://www.ximalaya.com/1260788/album/2677182,乔纳森英文故事
+kid,932,http://www.ximalaya.com/27309660/album/3750934,弗洛格的成长秘密
+kid,933,http://www.ximalaya.com/27020721/album/5763936,[小鹿斑比]世界名著5+
+kid,934,http://www.ximalaya.com/34918396/album/3057439,【独家】米粒妈·家有恐龙系列经典绘本（含米粒妈外教独家录音）
+kid,935,http://www.ximalaya.com/51779277/album/6661398,亲子阅读-成语动物公园
+kid,936,http://www.ximalaya.com/5587880/album/6686120,亲子生活体验英语
+kid,937,http://www.ximalaya.com/68507816/album/6255010,亿童学习包
+kid,938,http://www.ximalaya.com/51168506/album/4375839,安徒生童话故事
+kid,939,http://www.ximalaya.com/42465043/album/5803698,巴巴爸爸系列丛书
+kid,940,http://www.ximalaya.com/12834827/album/3230445,迪士尼系列故事
+kid,941,http://www.ximalaya.com/8806585/album/3396433,猫武士手册1 族群的秘密完本
+kid,942,http://www.ximalaya.com/18318119/album/304963,我和妈妈讲故事
+kid,943,http://www.ximalaya.com/46038837/album/6083372,彩乌鸦系列—德国，一群老鼠的童话
+kid,944,http://www.ximalaya.com/4992524/album/5158758,亲子晚安故事
+kid,945,http://www.ximalaya.com/8807006/album/3967817,（完）小猪唏哩呼噜（第一部）
+kid,946,http://www.ximalaya.com/26525605/album/3695684,安妮花磨耳朵3
+kid,947,http://www.ximalaya.com/27365927/album/3281403,洋葱头历险记 - 6岁
+kid,948,http://www.ximalaya.com/55235539/album/4790027,（已完结）鸡皮疙瘩之邪恶灵偶
+kid,949,http://www.ximalaya.com/56404084/album/4907126,小怪物
+kid,950,http://www.ximalaya.com/20984046/album/2865811,你好抱抱熊 13个月
+kid,951,http://www.ximalaya.com/25719557/album/2767180,窗边的小豆豆
+kid,952,http://www.ximalaya.com/10491711/album/408896,蒲公英 英语拼读王2A&B
+kid,953,http://www.ximalaya.com/35257955/album/4750300,中国经典神话故事
+kid,954,http://www.ximalaya.com/35377235/album/6098484,中国传统故事
+kid,955,http://www.ximalaya.com/61594057/album/5550284,每天1个胎教小故事
+kid,956,http://www.ximalaya.com/10967335/album/4221741,名著广播剧
+kid,957,http://www.ximalaya.com/56657781/album/4940237,睡前故事
+kid,958,http://www.ximalaya.com/38657562/album/6150971,Peppa Pig 粉猪 4
+kid,959,http://www.ximalaya.com/21430839/album/6008591,【路上读书】《不一样的卡梅拉》
+kid,960,http://www.ximalaya.com/55645051/album/6361643,鲁西西和水晶兔
+kid,961,http://www.ximalaya.com/42688233/album/4054350,小鹿斑比
+kid,962,http://www.ximalaya.com/30243018/album/4804256,剑桥双语分级阅读•小说馆-第二级2-《圆圈故事集》
+kid,963,http://www.ximalaya.com/47123267/album/4836422,小猪大行动
+kid,964,http://www.ximalaya.com/27195416/album/2683293,奶奶的魔法椅子
+kid,965,http://www.ximalaya.com/9250438/album/3864055,人类六万年
+kid,966,http://www.ximalaya.com/43691165/album/5126267,《荒野求生》 巨蟒丛林中的黄金密码 【英】贝尔.格里尔斯
+kid,967,http://www.ximalaya.com/57539630/album/5076966,讲个故事给小胖
+kid,968,http://www.ximalaya.com/43244794/album/4615319,金波经典童话
+kid,969,http://www.ximalaya.com/40579490/album/6813579,儿童古诗启蒙睡前听-北大附属幼儿园托班上
+kid,970,http://www.ximalaya.com/43381738/album/5021326,小布头奇遇记
+kid,971,http://www.ximalaya.com/49330483/album/6382974,窗边的小豆豆
+kid,972,http://www.ximalaya.com/62135244/album/5593674,经典诵读 育心《孙子兵法》
+kid,973,http://www.ximalaya.com/35377235/album/6099131,不一样的卡梅拉
+kid,974,http://www.ximalaya.com/58107154/album/5169747,《小猪唏哩呼噜》（上）
+kid,975,http://www.ximalaya.com/8360209/album/247545,401个儿童成语故事
+kid,976,http://www.ximalaya.com/71166947/album/6620023,小蜗牛睡前童话故事
+kid,977,http://www.ximalaya.com/30527812/album/5269557,晓峰老师讲故事
+kid,978,http://www.ximalaya.com/17983085/album/347812,小鱼讲故事
+kid,979,http://www.ximalaya.com/32294969/album/4604609,新东方泡泡剑桥儿童英语(1-4级)
+kid,980,http://www.ximalaya.com/2063266/album/5202190,雨秀老师小主持人综合能力训练手册
+kid,981,http://www.ximalaya.com/10133646/album/429370,新创儿童文学系列故事《十兄弟》
+kid,982,http://www.ximalaya.com/42230611/album/4299421,你好科学
+kid,983,http://www.ximalaya.com/18672077/album/335112,RAZ_G (Reading kids A-Z RAZ_G级 39集)
+kid,984,http://www.ximalaya.com/31823801/album/4554290,2B 课本
+kid,985,http://www.ximalaya.com/21872215/album/4124668,【溜妈讲故事】宝葫芦的秘密
+kid,986,http://www.ximalaya.com/30243018/album/4806362,剑桥双语分级阅读•小说馆-第三级11-《出卖》
+kid,987,http://www.ximalaya.com/18457088/album/376946,2015年-4月份故事集
+kid,988,http://www.ximalaya.com/12771648/album/5778020,兵器百科
+kid,989,http://www.ximalaya.com/9257721/album/4938573,乐乐多多成长日记
+kid,990,http://www.ximalaya.com/29980801/album/5817143,国家地理儿童百科提高级
+kid,991,http://www.ximalaya.com/38658247/album/4860092,英语绘本
+kid,992,http://www.ximalaya.com/52983358/album/5498175,美国基础教育 Primary Education in the U.S.
+kid,993,http://www.ximalaya.com/28357491/album/5653055,读书
+kid,994,http://www.ximalaya.com/14699658/album/2994458,牛津树第5级
+kid,995,http://www.ximalaya.com/8437628/album/271384,爱,藏起一半:好父母培养孩子软实力的智慧
+kid,996,http://www.ximalaya.com/7335009/album/4469574,心平气和的一年级
+kid,997,http://www.ximalaya.com/45870256/album/6952700,小布丁读课文-语文S版三年级下册
+kid,998,http://www.ximalaya.com/7620982/album/245097,世界名人家教智慧（完）
+kid,999,http://www.ximalaya.com/40485583/album/5557610,写给儿童的中国历史
+kid,1000,http://www.ximalaya.com/4781159/album/3689528,刘爸陪你读好书
