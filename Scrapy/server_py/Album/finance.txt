@@ -1,0 +1,10 @@
+finance,1,http://www.ximalaya.com/60347158/album/5481463,洪校长的投资课
+finance,2,http://www.ximalaya.com/41712829/album/5220185,女神向钱侃
+finance,3,http://www.ximalaya.com/46760892/album/4072340,高臻臻的脑细胞
+finance,4,http://www.ximalaya.com/12495477/album/269179,吴晓波频道
+finance,5,http://www.ximalaya.com/41855169/album/3652352,每日大盘预判—华飞
+finance,6,http://www.ximalaya.com/48101193/album/4292636,老丁说股
+finance,7,http://www.ximalaya.com/33943825/album/3375687,秦朔朋友圈
+finance,8,http://www.ximalaya.com/9127920/album/3026518,幽灵玩股
+finance,9,http://www.ximalaya.com/66512257/album/6031743,小本生意创业分享
+finance,10,http://www.ximalaya.com/48718830/album/4282711,为民说股

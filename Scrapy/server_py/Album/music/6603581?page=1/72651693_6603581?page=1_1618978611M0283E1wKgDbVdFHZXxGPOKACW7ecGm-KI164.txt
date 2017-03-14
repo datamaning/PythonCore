@@ -1,0 +1,13 @@
+album_title = 两学一做
+sound_title = 两学一做：怎么学怎么做（九）干在实处 走在前列
+music_type = 【有声书】
+tagString = 党建,党建网,党建学习,两学一做,党员
+playcount = 10556次播放
+likecount = 0
+commentcount = 0
+forwardcount = 1
+md3duration = 05:05
+albumurl = http://www.ximalaya.com/72651693/album/6603581?page=1
+soundurl = http://www.ximalaya.com/43982765/sound/16189786
+downloadurl = http://audio.xmcdn.com/group11/M02/83/E1/wKgDbVdFHZXxGPOKACW7ecGm-KI164.m4a
+username = 中宣部党建网FM

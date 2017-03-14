@@ -1,0 +1,13 @@
+album_title = 两学一做
+sound_title = 两学一做：怎么学怎么做（七）“关键少数”率先+“两学一做”求实
+music_type = 【有声书】
+tagString = 党建网,党建学习,党建,两学一做,党员
+playcount = 11246次播放
+likecount = 1
+commentcount = 0
+forwardcount = 1
+md3duration = 05:12
+albumurl = http://www.ximalaya.com/72651693/album/6603581?page=1
+soundurl = http://www.ximalaya.com/43982765/sound/16189496
+downloadurl = http://audio.xmcdn.com/group10/M09/74/19/wKgDZ1dFG5XhqDbnACaktEllRmk025.m4a
+username = 中宣部党建网FM

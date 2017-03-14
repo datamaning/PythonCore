@@ -1,0 +1,35 @@
+xiaoyuzhong,1,http://www.ximalaya.com/28804762/album/4740024,和小e一起学日语
+xiaoyuzhong,2,http://www.ximalaya.com/12659595/album/3186551,初声日语·零基础学日语
+xiaoyuzhong,3,http://www.ximalaya.com/54712545/album/4790943,法语小情歌
+xiaoyuzhong,4,http://www.ximalaya.com/15708540/album/3367596,Tina道晚安
+xiaoyuzhong,5,http://www.ximalaya.com/27639105/album/3751131,韩语发音零基础by七恩 [原创]
+xiaoyuzhong,6,http://www.ximalaya.com/52834193/album/4546946,俄语摆渡晨读
+xiaoyuzhong,7,http://www.ximalaya.com/35127976/album/3069993,桃子的日语朗读
+xiaoyuzhong,8,http://www.ximalaya.com/52535160/album/4512604,韩语零基础发音，背单词，台词讲解
+xiaoyuzhong,9,http://www.ximalaya.com/10571873/album/5462422,신비每日一句韩语
+xiaoyuzhong,10,http://www.ximalaya.com/59580779/album/5298086,（西语）每日一句地道西班牙语
+xiaoyuzhong,11,http://www.ximalaya.com/38508594/album/3932738,零起点德语课～30天玩转德语～
+xiaoyuzhong,12,http://www.ximalaya.com/32924463/album/2927604,莜蕾日语时光
+xiaoyuzhong,13,http://www.ximalaya.com/27709999/album/3360905,意大利语开口说
+xiaoyuzhong,14,http://www.ximalaya.com/29200911/album/4815905,初声日语·睡前日语读物
+xiaoyuzhong,15,http://www.ximalaya.com/25274159/album/3372719,韩语晨读-每日十句
+xiaoyuzhong,16,http://www.ximalaya.com/64791619/album/5868245,每日俄语-故事
+xiaoyuzhong,17,http://www.ximalaya.com/61298511/album/5478640,韩国欧巴讲地道的韩语
+xiaoyuzhong,18,http://www.ximalaya.com/55629421/album/4904737,韩语 - 畅聊真实韩国
+xiaoyuzhong,19,http://www.ximalaya.com/42569956/album/3687323,微型法语课堂
+xiaoyuzhong,20,http://www.ximalaya.com/53903665/album/6367210,奇葩德语（Komisches Deutsch)——轻松掌握日常德语
+xiaoyuzhong,21,http://www.ximalaya.com/35873186/album/6526948,西语共读100篇（初级/A1~A2）
+xiaoyuzhong,22,http://www.ximalaya.com/67214842/album/6158644,意大利语有声书《爱的教育》（泛读+精讲）
+xiaoyuzhong,23,http://www.ximalaya.com/74156361/album/6826668,每天5句常用俄语
+xiaoyuzhong,24,http://www.ximalaya.com/20488760/album/3479451,西班牙语最经典（歌单）
+xiaoyuzhong,25,http://www.ximalaya.com/70543309/album/6417573,日本物语
+xiaoyuzhong,26,http://www.ximalaya.com/52834193/album/5371816,俄罗斯美女外教带你练口语
+xiaoyuzhong,27,http://www.ximalaya.com/2657387/album/245449,新标准日本语初级（上）
+xiaoyuzhong,28,http://www.ximalaya.com/53211415/album/6701208,童言童语-法语睡前故事
+xiaoyuzhong,29,http://www.ximalaya.com/28371222/album/2697220,구어를 배워요 学习韩口语
+xiaoyuzhong,30,http://www.ximalaya.com/55629421/album/6882975,韩语晨读训练-韩Talk
+xiaoyuzhong,31,http://www.ximalaya.com/40727768/album/3926288,CRIインタビュー（日本語）
+xiaoyuzhong,32,http://www.ximalaya.com/2249046/album/236668,新版中日交流标准日本语初级（上&下）课文录音
+xiaoyuzhong,33,http://www.ximalaya.com/19490959/album/326666,日语300句
+xiaoyuzhong,34,http://www.ximalaya.com/52535160/album/4512626,韩语口语天天练--来听写吧
+xiaoyuzhong,35,http://www.ximalaya.com/73133568/album/6663858,俄语语法分类讲解+讲义

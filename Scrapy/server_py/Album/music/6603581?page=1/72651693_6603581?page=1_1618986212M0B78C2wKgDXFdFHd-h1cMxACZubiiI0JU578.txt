@@ -1,0 +1,13 @@
+album_title = 两学一做
+sound_title = 两学一做：怎么学怎么做（十）加强“三会一课” 落实“两学一做”
+music_type = 【有声书】
+tagString = 党建网,党建,党建学习,两学一做,党员
+playcount = 13441次播放
+likecount = 1
+commentcount = 0
+forwardcount = 1
+md3duration = 05:11
+albumurl = http://www.ximalaya.com/72651693/album/6603581?page=1
+soundurl = http://www.ximalaya.com/43982765/sound/16189862
+downloadurl = http://audio.xmcdn.com/group12/M0B/78/C2/wKgDXFdFHd-h1cMxACZubiiI0JU578.m4a
+username = 中宣部党建网FM

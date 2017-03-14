@@ -1,0 +1,13 @@
+album_title = 两学一做
+sound_title = 两学一做：怎么学怎么做（四）树起先锋形象 坚定信仰信念
+music_type = 【有声书】
+tagString = 党建网,党建学习,党建,两学一做,党员
+playcount = 16694次播放
+likecount = 1
+commentcount = 0
+forwardcount = 1
+md3duration = 05:39
+albumurl = http://www.ximalaya.com/72651693/album/6603581?page=1
+soundurl = http://www.ximalaya.com/43982765/sound/16189086
+downloadurl = http://audio.xmcdn.com/group12/M09/78/8B/wKgDW1dFGTvzXoUOACnejhR1vfY304.m4a
+username = 中宣部党建网FM

@@ -1,0 +1,13 @@
+album_title = 两学一做
+sound_title = 两学一做：怎么学怎么做（八）坚持分类指导 力求取得实效
+music_type = 【有声书】
+tagString = 党建,党建网,党建学习,党员,两学一做
+playcount = 10077次播放
+likecount = 1
+commentcount = 0
+forwardcount = 1
+md3duration = 04:41
+albumurl = http://www.ximalaya.com/72651693/album/6603581?page=1
+soundurl = http://www.ximalaya.com/43982765/sound/16189757
+downloadurl = http://audio.xmcdn.com/group14/M0A/79/FD/wKgDY1dFHNbhj7BSACK06_OygsQ098.m4a
+username = 中宣部党建网FM

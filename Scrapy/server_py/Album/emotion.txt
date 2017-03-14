@@ -1,0 +1,10 @@
+emotion,1,http://www.ximalaya.com/74969290/album/6998843,何她说
+emotion,2,http://www.ximalaya.com/10734256/album/6830762,一个人的夜
+emotion,3,http://www.ximalaya.com/1000622/album/4221997,每晚一点正能量
+emotion,4,http://www.ximalaya.com/2012232/album/292190,失眠小姐
+emotion,5,http://www.ximalaya.com/20251158/album/2758791,灵魂美文
+emotion,6,http://www.ximalaya.com/1012382/album/883,白日梦小姐
+emotion,7,http://www.ximalaya.com/7725987/album/276477,两个人，一些事
+emotion,8,http://www.ximalaya.com/36737965/album/3189486,做个有趣的姑娘
+emotion,9,http://www.ximalaya.com/67254611/album/6107959,十点夜听
+emotion,10,http://www.ximalaya.com/16960840/album/294567,心有千千结

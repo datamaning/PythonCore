@@ -1,0 +1,19 @@
+opera,1,http://www.ximalaya.com/15819092/album/2822479,国粹京剧
+opera,2,http://www.ximalaya.com/12862318/album/4075062,【最全京剧唱段频道】于魁智专辑（带唱词）
+opera,3,http://www.ximalaya.com/61932155/album/5771216,河南地方戏
+opera,4,http://www.ximalaya.com/12862318/album/5350688,【越剧唱段】陆锦花、傅全香、王文娟、徐玉兰、周宝奎、毕春芳、袁雪芬、尹桂芳
+opera,5,http://www.ximalaya.com/61932155/album/6006182,河南坠子 经典唱段集锦
+opera,6,http://www.ximalaya.com/70006940/album/6390040,【精选高清】秦腔一声吼
+opera,7,http://www.ximalaya.com/1000315/album/1818,黄梅戏名段
+opera,8,http://www.ximalaya.com/4538875/album/344440,豫剧-常香玉经典原声
+opera,9,http://www.ximalaya.com/1000315/album/1462,黄梅戏-珍藏严凤英
+opera,10,http://www.ximalaya.com/33659318/album/6361799,河北梆子 我选的
+opera,11,http://www.ximalaya.com/3271628/album/329362,河南曲剧名家名段
+opera,12,http://www.ximalaya.com/12862318/album/4219568,【最全京剧唱段频道】王珮瑜专辑（带唱词）
+opera,13,http://www.ximalaya.com/2452186/album/2769453,《现代京剧》选萃
+opera,14,http://www.ximalaya.com/46741258/album/6417558,苏州评弹
+opera,15,http://www.ximalaya.com/63884292/album/5763995,豫剧-孙祥雨、《豫东老调》专辑
+opera,16,http://www.ximalaya.com/23956750/album/3270833,豫剧红脸王 刘新民 先生
+opera,17,http://www.ximalaya.com/4538875/album/300661,豫剧--马金凤经典原声
+opera,18,http://www.ximalaya.com/5212900/album/5590669,河南戏
+opera,19,http://www.ximalaya.com/47279486/album/4141615,二人转小帽

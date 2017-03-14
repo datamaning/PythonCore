@@ -1,0 +1,13 @@
+album_title = 两学一做
+sound_title = “两学一做”学习教育知识问答
+music_type = 【有声书】
+tagString = 党课,党建
+playcount = 1130次播放
+likecount = 1
+commentcount = 0
+forwardcount = 0
+md3duration = 03:17
+albumurl = http://www.ximalaya.com/72651693/album/6603581?page=1
+soundurl = http://www.ximalaya.com/72651693/sound/29797350
+downloadurl = http://audio.xmcdn.com/group25/M07/50/70/wKgJNliUHTHCklDYABhs478GBWs556.m4a
+username = 小红花频道

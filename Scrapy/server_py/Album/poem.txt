@@ -1,0 +1,27 @@
+poem,1,http://www.ximalaya.com/48972143/album/5869910,诗乐坊
+poem,2,http://www.ximalaya.com/4175683/album/233180,阅读经典
+poem,3,http://www.ximalaya.com/70756391/album/6417452,赵丽华为你解读诗歌
+poem,4,http://www.ximalaya.com/39623651/album/3981863,濮哥读美文
+poem,5,http://www.ximalaya.com/1035021/album/2650840,午夜读诗
+poem,6,http://www.ximalaya.com/26389202/album/393099,为你读诗
+poem,7,http://www.ximalaya.com/42311630/album/3815493,经典古诗词
+poem,8,http://www.ximalaya.com/12828906/album/273015,古今中外经典诗歌
+poem,9,http://www.ximalaya.com/4083722/album/3239353,诗经释诵
+poem,10,http://www.ximalaya.com/39794281/album/5227863,《唐诗三百首》 详细注释 深度赏析
+poem,11,http://www.ximalaya.com/4228109/album/277579,唐诗三百首
+poem,12,http://www.ximalaya.com/16138800/album/289562,顾城的诗
+poem,13,http://www.ximalaya.com/10287484/album/264041,毛主席诗词赏析
+poem,14,http://www.ximalaya.com/61425525/album/5534601,唐诗三百首（含赏析）
+poem,15,http://www.ximalaya.com/4647368/album/241126,仓央嘉措
+poem,16,http://www.ximalaya.com/57395691/album/5125928,美声图书馆
+poem,17,http://www.ximalaya.com/16138800/album/289562,顾城的诗
+poem,18,http://www.ximalaya.com/4184072/album/249314,中华古诗词100集
+poem,19,http://www.ximalaya.com/47841410/album/6531343,读首诗再睡觉2017
+poem,20,http://www.ximalaya.com/2452186/album/281831,宋词欣赏（音乐文学）
+poem,21,http://www.ximalaya.com/3579971/album/3030139,禅意人生
+poem,22,http://www.ximalaya.com/16138800/album/293700,海子的诗
+poem,23,http://www.ximalaya.com/25312538/album/375562,你的生命我来过
+poem,24,http://www.ximalaya.com/5576834/album/233881,宋词鉴赏辞典（三）苏轼专辑
+poem,25,http://www.ximalaya.com/19124553/album/468501,古诗词（中央台）
+poem,26,http://www.ximalaya.com/56909145/album/6722019,《百家讲坛》诗歌里的春天
+poem,27,http://www.ximalaya.com/2868841/album/418493,纳兰容若词传

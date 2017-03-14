@@ -1,0 +1,15 @@
+openclass2,1,http://www.ximalaya.com/38314911/album/4659714,跟我学说话
+openclass2,2,http://www.ximalaya.com/48536908/album/4264862,叶武滨时间管理·易效能®浓缩三年300多场课程精华
+openclass2,3,http://www.ximalaya.com/37561485/album/3520609,清华大学：营销-人人都需要的一门课
+openclass2,4,http://www.ximalaya.com/13565502/album/3132874,摄影早自习
+openclass2,5,http://www.ximalaya.com/27241815/album/458142,管理与营销
+openclass2,6,http://www.ximalaya.com/37561485/album/3404911,清华大学：心理学概论
+openclass2,7,http://www.ximalaya.com/20533168/album/2839012,气质提升
+openclass2,8,http://www.ximalaya.com/57280385/album/5002276,神嘴张雪峰给你说考（段）研（子）
+openclass2,9,http://www.ximalaya.com/2927013/album/288910,如何说 孩子才会听；怎么听，孩子才肯说
+openclass2,10,http://www.ximalaya.com/20347185/album/6345883,公考名言警句
+openclass2,11,http://www.ximalaya.com/43396178/album/3866096,『回到2049』科学脱口秀
+openclass2,12,http://www.ximalaya.com/47566142/album/4166188,图南5分钟心理学
+openclass2,13,http://www.ximalaya.com/57660045/album/5257506,右脑开发＋快速阅读＋思维导图＋快速记忆＋思维风暴
+openclass2,14,http://www.ximalaya.com/23178133/album/356901,世界上最伟大的推销员
+openclass2,15,http://www.ximalaya.com/1000292/album/273183,改变你一生的108个心理学法则

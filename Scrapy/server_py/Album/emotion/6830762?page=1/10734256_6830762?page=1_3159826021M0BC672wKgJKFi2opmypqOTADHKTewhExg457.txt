@@ -1,0 +1,13 @@
+album_title = 一个人的夜
+sound_title = 一别一辈子
+music_type = 【情感生活】
+tagString = 
+playcount = 23490次播放
+likecount = 14
+commentcount = 14
+forwardcount = 0
+md3duration = 06:42
+albumurl = http://www.ximalaya.com/10734256/album/6830762?page=1
+soundurl = http://www.ximalaya.com/10734256/sound/31598260
+downloadurl = http://audio.xmcdn.com/group21/M0B/C6/72/wKgJKFi2opmypqOTADHKTewhExg457.m4a
+username = 彬彬有理脱口秀

@@ -1,0 +1,13 @@
+album_title = 何她说
+sound_title = 此时此刻
+music_type = 【情感生活】
+tagString = 治愈系,故事,女性,睡前,白百何
+playcount = 253666次播放
+likecount = 248
+commentcount = 123
+forwardcount = 1
+md3duration = 00:16
+albumurl = http://www.ximalaya.com/74969290/album/6998843?page=1
+soundurl = http://www.ximalaya.com/74969290/sound/31993979
+downloadurl = http://audio.xmcdn.com/group18/M05/B6/AA/wKgJKli9UoWiWq5SAAIN_VyepGg010.m4a
+username = 白百何_何她说

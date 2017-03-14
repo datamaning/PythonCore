@@ -1,0 +1,13 @@
+album_title = 何她说
+sound_title = 女为悦己者容，我为自己荣！
+music_type = 【情感生活】
+tagString = 治愈系,女性,白百何,睡前,心情
+playcount = 712806次播放
+likecount = 2120
+commentcount = 1170
+forwardcount = 18
+md3duration = 09:52
+albumurl = http://www.ximalaya.com/74969290/album/6998843?page=1
+soundurl = http://www.ximalaya.com/74969290/sound/32170689
+downloadurl = http://audio.xmcdn.com/group21/M08/DA/95/wKgJKFi_hzOy9Ei1AElAM2Qnaz0843.m4a
+username = 白百何_何她说

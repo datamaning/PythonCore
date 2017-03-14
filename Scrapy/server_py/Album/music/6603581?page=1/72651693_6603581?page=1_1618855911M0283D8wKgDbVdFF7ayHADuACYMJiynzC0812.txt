@@ -1,0 +1,13 @@
+album_title = 两学一做
+sound_title = 两学一做：怎么学怎么做（二）带着问题学 针对问题改
+music_type = 【有声书】
+tagString = 党建,党建网,党建学习,两学一做,党员
+playcount = 23379次播放
+likecount = 1
+commentcount = 0
+forwardcount = 1
+md3duration = 05:08
+albumurl = http://www.ximalaya.com/72651693/album/6603581?page=1
+soundurl = http://www.ximalaya.com/43982765/sound/16188559
+downloadurl = http://audio.xmcdn.com/group11/M02/83/D8/wKgDbVdFF7ayHADuACYMJiynzC0812.m4a
+username = 中宣部党建网FM

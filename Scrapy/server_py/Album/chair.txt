@@ -1,0 +1,9 @@
+chair,1,http://www.ximalaya.com/56313539/album/4903380,行动派精选文章
+chair,2,http://www.ximalaya.com/48508564/album/6408595,李朔：销售技巧和话术 攻心销售
+chair,3,http://www.ximalaya.com/37561485/album/3520609,清华大学：营销-人人都需要的一门课
+chair,4,http://www.ximalaya.com/20533168/album/2839012,气质提升
+chair,5,http://www.ximalaya.com/20347185/album/6345883,公考名言警句
+chair,6,http://www.ximalaya.com/29288931/album/3718853,职场解忧杂货铺
+chair,7,http://www.ximalaya.com/28821775/album/2744440,作文素材天天读
+chair,8,http://www.ximalaya.com/37044401/album/3396620,上海交大：唐诗宋词人文解读
+chair,9,http://www.ximalaya.com/18461453/album/2898251,演讲不紧张

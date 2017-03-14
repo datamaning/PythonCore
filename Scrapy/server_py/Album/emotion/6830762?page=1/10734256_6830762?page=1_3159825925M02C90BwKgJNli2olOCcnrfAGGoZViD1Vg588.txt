@@ -1,0 +1,13 @@
+album_title = 一个人的夜
+sound_title = 幸福的开关
+music_type = 【情感生活】
+tagString = 
+playcount = 15657次播放
+likecount = 4
+commentcount = 2
+forwardcount = 0
+md3duration = 13:10
+albumurl = http://www.ximalaya.com/10734256/album/6830762?page=1
+soundurl = http://www.ximalaya.com/10734256/sound/31598259
+downloadurl = http://audio.xmcdn.com/group25/M02/C9/0B/wKgJNli2olOCcnrfAGGoZViD1Vg588.m4a
+username = 彬彬有理脱口秀

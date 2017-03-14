@@ -1,0 +1,13 @@
+album_title = 两学一做
+sound_title = 两学一做：怎么学怎么做（六）创新党课方式 确保党课实效
+music_type = 【有声书】
+tagString = 党建,党建网,党建学习,两学一做,党员
+playcount = 13670次播放
+likecount = 1
+commentcount = 0
+forwardcount = 1
+md3duration = 04:41
+albumurl = http://www.ximalaya.com/72651693/album/6603581?page=1
+soundurl = http://www.ximalaya.com/43982765/sound/16189406
+downloadurl = http://audio.xmcdn.com/group9/M03/78/E2/wKgDZldFG0nCueKsACLPXuDcoHg398.m4a
+username = 中宣部党建网FM

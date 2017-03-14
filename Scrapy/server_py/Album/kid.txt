@@ -1,0 +1,10 @@
+kid,1,http://www.ximalaya.com/9216785/album/257813,【一千零一夜】睡前故事
+kid,2,http://www.ximalaya.com/53481826/album/6750180,大咖面对面
+kid,3,http://www.ximalaya.com/62343729/album/6702158,写给春天的诗词
+kid,4,http://www.ximalaya.com/6008200/album/416163,希利尔讲世界史
+kid,5,http://www.ximalaya.com/18489196/album/315783,法布尔昆虫记【巴巴妈妈讲故事】（完）
+kid,6,http://www.ximalaya.com/54283594/album/5143278,宝贝学钢琴：晨听古典音乐磨耳朵
+kid,7,http://www.ximalaya.com/10553948/album/260744,晚安妈妈睡前故事
+kid,8,http://www.ximalaya.com/23528411/album/3070144,十二生肖的故事
+kid,9,http://www.ximalaya.com/40274968/album/3509228,胎教故事
+kid,10,http://www.ximalaya.com/40599028/album/3533672,婷婷唱古文

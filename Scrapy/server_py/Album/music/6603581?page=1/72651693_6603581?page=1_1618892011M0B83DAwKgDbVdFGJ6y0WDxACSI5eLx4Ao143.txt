@@ -1,0 +1,13 @@
+album_title = 两学一做
+sound_title = 两学一做：怎么学怎么做（三）抓在日常 严在经常
+music_type = 【有声书】
+tagString = 党建,党建网,党建学习,两学一做,党员
+playcount = 19833次播放
+likecount = 2
+commentcount = 0
+forwardcount = 1
+md3duration = 04:55
+albumurl = http://www.ximalaya.com/72651693/album/6603581?page=1
+soundurl = http://www.ximalaya.com/43982765/sound/16188920
+downloadurl = http://audio.xmcdn.com/group11/M0B/83/DA/wKgDbVdFGJ6y0WDxACSI5eLx4Ao143.m4a
+username = 中宣部党建网FM
