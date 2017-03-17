@@ -56,8 +56,8 @@ def soundpage(a_url, a_title, s_url):
     music_f=urllib.urlopen(("http://www.ximalaya.com/tracks/"+s_url.split('/')[5]+'.json')) 
     
     music_json=json.loads(music_f.read().decode('utf-8'))
-    print music_json['play_path']
-    
+   # print music_json['play_path'],music_json['title'],tagString
+    print 'title',title,"_________________"
                         
         
 
@@ -94,8 +94,15 @@ if __name__ == '__main__':
             #album_dir=os.getcwd()+'/'+album_file_name
             os.chdir(sound_id_file)
             album_dir=os.getcwd()+'/'+album_file_name 
-            if not os.path.exists(album_dir):
-                os.mkdir(album_dir)
+            #print l[3]
+            res=l[3].decode('utf-8')
+            r=re.sub(r"/",'',res)
+            print r,res
+            if not os.path.exists(r):
+                
+                os.mkdir(r)
+                #print l[3].decode('utf-8').strip(), os.getcwd()
+
             albumGetSounds(l[2])
 
 
