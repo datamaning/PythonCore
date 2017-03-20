@@ -3,7 +3,7 @@
 
 import scrapy
 
-class DmozSpider(scrapy.spider):
+class DmozSpider(scrapy.Spider):
     name='dmoz'
     allowed_domains=['dmoz.org']
     start_urls=[
@@ -13,5 +13,9 @@ class DmozSpider(scrapy.spider):
     def parse(self,response):
         filename=response.url.split('/')[-2]
         with open(filename,'wb') as f:
-            f.write(response.body)
+            item=DmozItem()
+            item['title']=self.xpath('a/text()').extract()
+            item['link']=self.xpath('a@href').extract()
+            item['desc']=self.xpath('text()').extract()
+            yield item
 
