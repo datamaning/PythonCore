@@ -59,4 +59,45 @@ def trainNB0(trainMatrix,trainCategory):
     p0Vect=p0Num/p0Denom
     print  p0Vect,p1Vect
     return p0Vect,p1Vect,pAbusive
-trainNB0(trainMat,listClasses)
+#trainNB0(trainMat,listClasses)
+
+
+def trainNB1(trainMatrix,trainCategory):
+    numTrainDocs=len(trainMatrix)
+    print numTrainDocs
+    numWords=len(trainMatrix[0])
+    print numWords
+    pAbusive=sum(trainCategory)/float(numTrainDocs)
+    print pAbusive
+
+    p0Num=zeros(numWords)
+    p1Num=zeros(numWords)
+    print p0Num,len(p0Num)
+    p1Denom=0.0;p0Denom=0.0
+    for i in range(numTrainDocs):
+        if trainCategory[i]==1:
+            p1Num+=trainMatrix[i]
+            p1Denom+=sum(trainMatrix[i])
+    numTrainDocs=len(trainMatrix)
+    print numTrainDocs
+    numWords=len(trainMatrix[0])
+    print numWords
+    pAbusive=sum(trainCategory)/float(numTrainDocs)
+    print pAbusive
+
+    p0Num=ones(numWords)
+    p1Num=ones(numWords)
+    print p0Num,len(p0Num)
+    p1Denom=2.0;p0Denom=2.0
+    for i in range(numTrainDocs):
+        if trainCategory[i]==1:
+            p1Num+=trainMatrix[i]
+            p1Denom+=sum(trainMatrix[i])
+        else:
+            p0Num+=trainMatrix[i]
+            p0Denom+=sum(trainMatrix[i])
+    p1Vect=p1Num/p1Denom
+    p0Vect=p0Num/p0Denom
+    print  p0Vect,p1Vect
+    return p0Vect,p1Vect,pAbusive
+trainNB1(trainMat,listClasses)
